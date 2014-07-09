@@ -39,6 +39,8 @@
 		66BD1519196F38AD008B360C /* WKPlace.m in Sources */ = {isa = PBXBuildFile; fileRef = 66BD1515196F38AD008B360C /* WKPlace.m */; };
 		66BD151A196F38AD008B360C /* WKUser.m in Sources */ = {isa = PBXBuildFile; fileRef = 66BD1517196F38AD008B360C /* WKUser.m */; };
 		66BD151C196F4F71008B360C /* street_view-50-white.png in Resources */ = {isa = PBXBuildFile; fileRef = 66BD151B196F4F71008B360C /* street_view-50-white.png */; };
+		D9BFA8B4196CB0F600161238 /* DetailPlaceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9BFA8B3196CB0F600161238 /* DetailPlaceViewController.m */; };
+		D9BFA8B7196CB8EE00161238 /* WKFacebookPage.m in Sources */ = {isa = PBXBuildFile; fileRef = D9BFA8B6196CB8EE00161238 /* WKFacebookPage.m */; };
 		F1F7174CA8D34C5497ABDF2E /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3846F66070CB4151A492618C /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -102,6 +104,10 @@
 		66BD1516196F38AD008B360C /* WKUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKUser.h; sourceTree = "<group>"; };
 		66BD1517196F38AD008B360C /* WKUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKUser.m; sourceTree = "<group>"; };
 		66BD151B196F4F71008B360C /* street_view-50-white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "street_view-50-white.png"; sourceTree = "<group>"; };
+		D9BFA8B2196CB0F600161238 /* DetailPlaceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailPlaceViewController.h; sourceTree = "<group>"; };
+		D9BFA8B3196CB0F600161238 /* DetailPlaceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailPlaceViewController.m; sourceTree = "<group>"; };
+		D9BFA8B5196CB8EE00161238 /* WKFacebookPage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKFacebookPage.h; sourceTree = "<group>"; };
+		D9BFA8B6196CB8EE00161238 /* WKFacebookPage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKFacebookPage.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +189,8 @@
 				6617EA50195CEC9E00F8101E /* Supporting Files */,
 				66BD14FF196ADA69008B360C /* DefaultsViewController.h */,
 				66BD1500196ADA69008B360C /* DefaultsViewController.m */,
+				D9BFA8B2196CB0F600161238 /* DetailPlaceViewController.h */,
+				D9BFA8B3196CB0F600161238 /* DetailPlaceViewController.m */,
 			);
 			path = wink;
 			sourceTree = "<group>";
@@ -286,6 +294,8 @@
 				66BD1515196F38AD008B360C /* WKPlace.m */,
 				66BD1516196F38AD008B360C /* WKUser.h */,
 				66BD1517196F38AD008B360C /* WKUser.m */,
+				D9BFA8B5196CB8EE00161238 /* WKFacebookPage.h */,
+				D9BFA8B6196CB8EE00161238 /* WKFacebookPage.m */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -442,6 +452,8 @@
 				6617EB1319637B3000F8101E /* UIImage+ImageEffects.m in Sources */,
 				6617EA84195CECAF00F8101E /* PAImageView.m in Sources */,
 				6617EAF419620FE100F8101E /* FirstViewController.m in Sources */,
+				D9BFA8B7196CB8EE00161238 /* WKFacebookPage.m in Sources */,
+				D9BFA8B4196CB0F600161238 /* DetailPlaceViewController.m in Sources */,
 				6617EB261964D07400F8101E /* LoginUIViewController.m in Sources */,
 				6617EA5A195CEC9E00F8101E /* AppDelegate.m in Sources */,
 				66BD1518196F38AD008B360C /* WKLocation.m in Sources */,

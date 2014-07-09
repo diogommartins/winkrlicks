@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="12F45" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="7wJ-mJ-iAU">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="5056" systemVersion="13E28" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="7wJ-mJ-iAU">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
     </dependencies>
@@ -392,22 +392,22 @@
                                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                                 </view>
                                 <prototypes>
-                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cell" textLabel="hpj-xz-D2g" detailTextLabel="xjE-j7-Llg" imageView="giQ-2R-uWZ" style="IBUITableViewCellStyleSubtitle" id="Xb2-Xp-rZJ" customClass="LocationTableViewCell">
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="cell" textLabel="hpj-xz-D2g" detailTextLabel="xjE-j7-Llg" imageView="giQ-2R-uWZ" style="IBUITableViewCellStyleSubtitle" id="Xb2-Xp-rZJ" customClass="LocationTableViewCell">
                                         <rect key="frame" x="0.0" y="50" width="320" height="100"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Xb2-Xp-rZJ" id="YE3-BO-BMH">
-                                            <rect key="frame" x="0.0" y="0.0" width="320" height="99"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="287" height="99"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Rio Rock &amp; Blues" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="hpj-xz-D2g">
-                                                    <rect key="frame" x="120" y="16" width="135" height="22"/>
+                                                    <rect key="frame" x="80" y="16" width="135" height="22"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="18"/>
                                                     <color key="textColor" red="1" green="0.40000000600000002" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="185" id="xjE-j7-Llg">
-                                                    <rect key="frame" x="120" y="38" width="185" height="45"/>
+                                                <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="205" id="xjE-j7-Llg">
+                                                    <rect key="frame" x="80" y="38" width="205" height="45"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <string key="text">O Rio Rock &amp; Blues Club é um ambiente para os amantes dos rock e do blues. A casa exibe shows de quarta a sábado e abre nos outros dias apenas para</string>
                                                     <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="12"/>
@@ -415,7 +415,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="street_view-90-white.png" id="giQ-2R-uWZ">
-                                                    <rect key="frame" x="15" y="4" width="90" height="90"/>
+                                                    <rect key="frame" x="15" y="24" width="50" height="50"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                 </imageView>
                                             </subviews>
@@ -441,6 +441,35 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gJQ-IW-A7U" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1722" y="-852"/>
+        </scene>
+        <!--Detail Place View Controller-->
+        <scene sceneID="dfO-Wr-5tc">
+            <objects>
+                <viewController storyboardIdentifier="detailPlaceViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="kUe-Yv-VHQ" customClass="DetailPlaceViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="gC8-pZ-9Y4"/>
+                        <viewControllerLayoutGuide type="bottom" id="0cy-2i-4GJ"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="bkI-Li-hGu">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iJ9-mh-psP">
+                                <rect key="frame" x="139" y="273" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <navigationItem key="navigationItem" id="tox-Oi-IxA"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7Mo-RS-olx" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2184" y="-844"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="Ypj-A2-jr6">
@@ -495,7 +524,7 @@
         <image name="menu-25" width="25" height="25"/>
         <image name="settings-25" width="25" height="25"/>
         <image name="share-25" width="25" height="25"/>
-        <image name="street_view-90-white.png" width="90" height="90"/>
+        <image name="street_view-90-white.png" width="50" height="50"/>
         <image name="treasury_map-25" width="25" height="25"/>
         <image name="user_female-big" width="256" height="256"/>
         <image name="user_male-big" width="256" height="256"/>

@@ -20,4 +20,6 @@
 
 -(id)initWithFacebookPlaceDictionary: (NSDictionary *) dict;
 
+-(NSString *)graphPath;
+
 @end

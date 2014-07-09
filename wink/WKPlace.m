@@ -33,4 +33,9 @@
     return self;
 }
 
+-(NSString *)graphPath
+{
+    return [NSString stringWithFormat:@"/%@", self.idPlace];
+}
+
 @end

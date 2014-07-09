@@ -8,6 +8,7 @@
 
 #import "FirstViewController.h"
 #import "LocationTableViewCell.h"
+#import "DetailPlaceViewController.h"
 
 #import "JASidePanelController.h"
 #import "UIViewController+JASidePanel.h"
@@ -123,7 +124,6 @@ CGFloat const IMAGEVIEW_IMAGE_SIZE = 90.0;
                                                 limit: 20];
     
 }
--loca
 
 /*
 #pragma mark - Navigation
@@ -136,7 +136,8 @@ CGFloat const IMAGEVIEW_IMAGE_SIZE = 90.0;
 }
 */
 
-- (IBAction)toggleSidePanelVisibility:(UIBarButtonItem *)sender {
+- (IBAction)toggleSidePanelVisibility: (UIBarButtonItem *)sender
+{
     [self.sidePanelController showLeftPanelAnimated:YES];
 }
 
@@ -197,6 +198,26 @@ CGFloat const IMAGEVIEW_IMAGE_SIZE = 90.0;
         [self.locationImages setObject: imageView
                                 forKey: place.idPlace];
     }
+}
+
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    WKPlace * selectedPlace = [self.places objectAtIndex: indexPath.row];
+    NSDictionary * param = @{ @"fields" : @"link, about, checkins, phone, likes, description, cover, website, best_page, general_info" };
+    
+    [FBRequestConnection startWithGraphPath: [selectedPlace graphPath]
+                                 parameters: param
+                                 HTTPMethod: @"GET"
+                          completionHandler: ^(
+                                              FBRequestConnection *connection,
+                                              id result,
+                                              NSError *error
+                                              ) {
+                              
+                          }];
+    
+//    DetailPlaceViewController * detailVC = [DetailPlaceViewController alloc] initwithPlace
+    
 }
 
 
