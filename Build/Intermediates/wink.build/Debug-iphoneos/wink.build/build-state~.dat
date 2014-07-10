@@ -1,0 +1,738 @@
+Twink
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-8DB27945CEAD45468EA30330.sh
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.pch wink/wink-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o /Users/diogomartins/xcodeapps/wink/wink/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink normal armv7s
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/menu-25.png wink/menu-25.png
+cCopyStringsFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/en.lproj/InfoPlist.strings wink/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male4-75.png wink/user_male4-75.png
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/settings-25.png wink/settings-25.png
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/share-25.png wink/share-25.png
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-25.png wink/user_male2-25.png
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-32.png wink/user_male2-32.png
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/like-25.png wink/like-25.png
+cCpResource wink/PAImageView.podspec Build/Products/Debug-iphoneos/wink.app/PAImageView.podspec
+cCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png wink/treasury_map-25.png
+cCompileStoryboard /Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app /Users/diogomartins/xcodeapps/wink/wink/Images.xcassets
+cProcessInfoPlistFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Info.plist /Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist
+cGenerateDSYMFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app.dSYM /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-3115BC516CF244739965751C.sh
+cProcessProductPackaging /Users/diogomartins/Library/MobileDevice/Provisioning\ Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision
+cTouch /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent
+cCodeSign /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534D64380000000000000132
+t1397580856
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000533C4A4E0000000000000094
+t1396460110
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000533C4A4E0000000000000096
+t1396460110
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000533C4A4E000000000000036B
+t1396460110
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A4F000000000000019E
+t1396460111
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534D63EE00000000004D7BC0
+t1397580782
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A510000000000A90C10
+t1396460113
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000533C4A5100000000003C0F90
+t1396460113
+s3936144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533C4A560000000002759920
+t1396460118
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Users/diogomartins/Library/MobileDevice/Provisioning Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision
+c00000000539B10C50000000000001F6D
+t1402671301
+s8045
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.pch
+t1404255223
+s94476
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o
+t1404255224
+s63984
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o
+t1404255224
+s60136
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o
+t1404255224
+s54212
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o
+t1404255224
+s105604
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o
+t1404255223
+s43680
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o
+t1404255224
+s3764
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/wink.LinkFileList
+c0000000053B33BF70000000000000319
+t1404255223
+s793
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-3115BC516CF244739965751C.sh
+c0000000053B33BF7000000000000002F
+t1404255223
+s47
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-8DB27945CEAD45468EA30330.sh
+c0000000053B33BF70000000000000103
+t1404255223
+s259
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/assetcatalog_dependencies.txt
+t1404255225
+s329
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/assetcatalog_generated_info.plist
+t1404255225
+s525
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent
+t1404255226
+s509
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a
+c0000000053B33BF700000000001B9DB0
+t1404255223
+s1809840
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app
+t1404255226
+s680
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app.dSYM
+t2
+s0
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Base.lproj/Main.storyboardc
+t1404255225
+s374
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Info.plist
+t1404255226
+s1407
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/PAImageView.podspec
+t1404255225
+s577
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/PkgInfo
+t1404255226
+s8
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist
+t1404255223
+s150
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision
+t1404255226
+s8045
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/en.lproj/InfoPlist.strings
+t1404255225
+s42
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/like-25.png
+t1404255225
+s484
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/menu-25.png
+t1404255225
+s122
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/settings-25.png
+t1404255225
+s615
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/share-25.png
+t1404255225
+s427
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png
+t1404255225
+s540
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-25.png
+t1404255225
+s597
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-32.png
+t1404255225
+s737
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male4-75.png
+t1404255225
+s2354
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink
+t1404255225
+s715608
+
+N/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+c0000000053B324BA000000000000091F
+t1404249274
+s2335
+
+N/Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard
+c0000000053B33BE300000000000080A5
+t1404255203
+s32933
+
+N/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+c0000000053B335A60000000000000AAF
+t1404253606
+s2735
+
+N/Users/diogomartins/xcodeapps/wink/wink/Images.xcassets
+c0000000053ACB69D00000000000000EE
+t1403827869
+s238
+
+N/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+c0000000053B339D90000000000000D4A
+t1404254681
+s3402
+
+N/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+c000000005396BA9200000000000029EE
+t1402387090
+s10734
+
+N/Users/diogomartins/xcodeapps/wink/wink/PAImageView.podspec
+c000000005396BA920000000000000241
+t1402387090
+s577
+
+N/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+c0000000053B1DC960000000000000510
+t1404165270
+s1296
+
+N/Users/diogomartins/xcodeapps/wink/wink/en.lproj/InfoPlist.strings
+c0000000053ACB51E000000000000002D
+t1403827486
+s45
+
+N/Users/diogomartins/xcodeapps/wink/wink/like-25.png
+c00000000537A4F880000000000000228
+t1400524680
+s552
+
+N/Users/diogomartins/xcodeapps/wink/wink/main.m
+c0000000053ACB51E0000000000000166
+t1403827486
+s358
+
+N/Users/diogomartins/xcodeapps/wink/wink/menu-25.png
+c00000000537A4F88000000000000007A
+t1400524680
+s122
+
+N/Users/diogomartins/xcodeapps/wink/wink/settings-25.png
+c00000000537A4F8800000000000002D9
+t1400524680
+s729
+
+N/Users/diogomartins/xcodeapps/wink/wink/share-25.png
+c00000000537A4F880000000000000204
+t1400524680
+s516
+
+N/Users/diogomartins/xcodeapps/wink/wink/treasury_map-25.png
+c00000000537A4F88000000000000027C
+t1400524680
+s636
+
+N/Users/diogomartins/xcodeapps/wink/wink/user_male2-25.png
+c00000000537A4F880000000000000274
+t1400524680
+s628
+
+N/Users/diogomartins/xcodeapps/wink/wink/user_male2-32.png
+c00000000537A4F880000000000000337
+t1400524680
+s823
+
+N/Users/diogomartins/xcodeapps/wink/wink/user_male4-75.png
+c00000000537A4F8A0000000000000994
+t1400524682
+s2452
+
+N/Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist
+c0000000053ACB51E000000000000059C
+t1403827486
+s1436
+
+N/Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch
+c0000000053ACB51E0000000000000158
+t1403827486
+s344
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1a88ad777363b941^471fdb777363b941^---0#1#1#--18"Check dependencies36"24BEDD00-83AC-4D2F-A4FF-FF82E61DA77B-
+
+CCodeSign /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app
+s425948026.386558
+e425948026.780234
+r1
+xCodeSign
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"CodeSign Build/Products/Debug-iphoneos/wink.app47"CodeSign Build/Products/Debug-iphoneos/wink.app93fc647a7363b941^cfbdc77a7363b941^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/0000000000000000^981"CodeSign Build/Products/Debug-iphoneos/wink.app    cd /Users/diogomartins/xcodeapps/wink    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Diogo Magalhaes martins (3TX8355G4C)" and provisioning profile "iOS Team Provisioning Profile: *" (6226EECE-BABF-4CEA-8934-F3F52F826B2E)    /usr/bin/codesign --force --sign 2ED9276E43324E43685F546BB23A821E8DC1DC81 --resource-rules=/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist --entitlements /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app36"1762CDD5-2FB6-4C39-97B9-30D7613C045B-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileAssetCatalog /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app /Users/diogomartins/xcodeapps/wink/wink/Images.xcassets
+s425948025.262772
+e425948025.997474
+r1
+xCompileAssetCatalog
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app
+x/Users/diogomartins/xcodeapps/wink/wink/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/LaunchImage-700-568h@2x.png
+o/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Assets.car
+o/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"CompileAssetCatalog Build/Products/Debug-iphoneos/wink.app wink/Images.xcassets79"CompileAssetCatalog Build/Products/Debug-iphoneos/wink.app wink/Images.xcassetseb5243797363b941^c95aff797363b941^-357"/* com.apple.actool.compilation-results *//Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/LaunchImage-700-568h@2x.png/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Assets.car/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Users/diogomartins/xcodeapps/wink/wink/Images.xcassets/0000000000000000^1007"CompileAssetCatalog Build/Products/Debug-iphoneos/wink.app wink/Images.xcassets    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app /Users/diogomartins/xcodeapps/wink/wink/Images.xcassets36"645396A8-3C95-4DC5-AA28-B7FA705DBABD-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948023.996589
+e425948024.062259
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+d/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m190"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o wink/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler7e39ff777363b941^45f00f787363b941^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m0000000000000000^3799"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o wink/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o36"12ACB911-4E60-4F31-870D-B224E0FE8FFC-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948023.939142
+e425948024.353383
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m206"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o wink/FirstViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler887ff0777363b941^5b785a787363b941^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m0000000000000000^3847"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o wink/FirstViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o36"AA1FE260-6047-4BD7-8154-50525162633C-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948023.938651
+e425948024.004375
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.h
+d/Users/diogomartins/xcodeapps/wink/wink/PAImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m214"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o wink/MenuTableViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler2c62f0777363b941^fb1e01787363b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m0000000000000000^3871"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o wink/MenuTableViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o36"32E1B721-6AA0-4537-89AF-AABD37F4BCE7-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948023.938869
+e425948024.077641
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o
+x/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+d/Users/diogomartins/xcodeapps/wink/wink/PAImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m190"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o wink/PAImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler4c6ef0777363b941^ace013787363b941^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m0000000000000000^3799"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o wink/PAImageView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.dia -c /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o36"BD2CB198-9042-48DE-99CB-D54C951A1C75-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948023.938654
+e425948023.994769
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m214"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o wink/SidePanelViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerbf63f0777363b941^71a9fe777363b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m0000000000000000^3871"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o wink/SidePanelViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o36"2DECB050-E790-417F-B2E7-2BE67C2947F2-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o /Users/diogomartins/xcodeapps/wink/wink/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948024.006132
+e425948024.071724
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o
+x/Users/diogomartins/xcodeapps/wink/wink/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/main.m
+d/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/diogomartins/xcodeapps/wink/wink/main.m176"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o wink/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler3faa01787363b941^c45c12787363b941^---0#0#1#-19%DVTDocumentLocation2@62"file://localhost/Users/diogomartins/xcodeapps/wink/wink/main.m0000000000000000^3757"CompileC Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o wink/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.dia -c /Users/diogomartins/xcodeapps/wink/wink/main.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o36"F7D24477-9349-4291-BDF2-DE3DCD10EE74-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCompileStoryboard /Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard
+s425948025.260793
+e425948025.567274
+r1
+xCompileStoryboard
+x/Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CompileStoryboard wink/Base.lproj/Main.storyboard49"CompileStoryboard wink/Base.lproj/Main.storyboard74d342797363b941^653991797363b941^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard0000000000000000^759"CompileStoryboard wink/Base.lproj/Main.storyboard    cd /Users/diogomartins/xcodeapps/wink    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Base.lproj/Main.storyboardc /Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard36"0011FDC9-3285-43DB-B76F-694A14BF2888-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/like-25.png wink/like-25.png
+s425948025.239040
+e425948025.261852
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/like-25.png
+xwink/like-25.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/like-25.png wink/like-25.png79"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/like-25.png wink/like-25.png8a3c3d797363b941^4e0a43797363b941^---0#0#1#-19%DVTDocumentLocation2@67"file://localhost/Users/diogomartins/xcodeapps/wink/wink/like-25.png0000000000000000^559"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/like-25.png wink/like-25.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/like-25.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/like-25.png36"6A26E4F0-0DC3-426E-B9A1-5AD0F3EEB76D-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/menu-25.png wink/menu-25.png
+s425948025.171504
+e425948025.236278
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/menu-25.png
+xwink/menu-25.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/menu-25.png wink/menu-25.png79"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/menu-25.png wink/menu-25.png01f82b797363b941^7b863c797363b941^-143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.-0#0#1#-19%DVTDocumentLocation2@67"file://localhost/Users/diogomartins/xcodeapps/wink/wink/menu-25.png0000000000000000^559"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/menu-25.png wink/menu-25.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/menu-25.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/menu-25.png36"B5D909EB-BAA1-4FF9-97E2-4C27441D09E4-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/settings-25.png wink/settings-25.png
+s425948025.171778
+e425948025.237692
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/settings-25.png
+xwink/settings-25.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/settings-25.png wink/settings-25.png87"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/settings-25.png wink/settings-25.png96042c797363b941^d7d93c797363b941^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Users/diogomartins/xcodeapps/wink/wink/settings-25.png0000000000000000^575"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/settings-25.png wink/settings-25.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/settings-25.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/settings-25.png36"76E66ED4-1A14-4261-A227-FBB373F95468-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/share-25.png wink/share-25.png
+s425948025.177467
+e425948025.238119
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/share-25.png
+xwink/share-25.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/share-25.png wink/share-25.png81"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/share-25.png wink/share-25.png637b2d797363b941^c3f53c797363b941^---0#0#1#-19%DVTDocumentLocation2@68"file://localhost/Users/diogomartins/xcodeapps/wink/wink/share-25.png0000000000000000^563"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/share-25.png wink/share-25.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/share-25.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/share-25.png36"2ED3FB41-826E-4511-976D-DE65AB539AB5-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png wink/treasury_map-25.png
+s425948025.253124
+e425948025.277763
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png
+xwink/treasury_map-25.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png wink/treasury_map-25.png95"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png wink/treasury_map-25.png44e040797363b941^f62547797363b941^---0#0#1#-19%DVTDocumentLocation2@75"file://localhost/Users/diogomartins/xcodeapps/wink/wink/treasury_map-25.png0000000000000000^591"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png wink/treasury_map-25.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/treasury_map-25.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/treasury_map-25.png36"2276D544-1CD7-4E5B-AE67-DE563AEC549B-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-25.png wink/user_male2-25.png
+s425948025.237660
+e425948025.259435
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-25.png
+xwink/user_male2-25.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male2-25.png wink/user_male2-25.png91"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male2-25.png wink/user_male2-25.png71e53c797363b941^e17c42797363b941^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/diogomartins/xcodeapps/wink/wink/user_male2-25.png0000000000000000^583"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male2-25.png wink/user_male2-25.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/user_male2-25.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-25.png36"53E68214-8955-4E24-B53C-9CB8785291C3-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-32.png wink/user_male2-32.png
+s425948025.239032
+e425948025.261230
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-32.png
+xwink/user_male2-32.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male2-32.png wink/user_male2-32.png91"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male2-32.png wink/user_male2-32.pngf33b3d797363b941^8dec42797363b941^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/diogomartins/xcodeapps/wink/wink/user_male2-32.png0000000000000000^583"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male2-32.png wink/user_male2-32.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/user_male2-32.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male2-32.png36"75BF78F1-5E25-459B-8829-4513386691AA-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyPNGFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male4-75.png wink/user_male4-75.png
+s425948025.171523
+e425948025.247954
+r1
+xCopyPNGFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male4-75.png
+xwink/user_male4-75.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male4-75.png wink/user_male4-75.png91"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male4-75.png wink/user_male4-75.pnga9f82b797363b941^96793f797363b941^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/diogomartins/xcodeapps/wink/wink/user_male4-75.png0000000000000000^583"CopyPNGFile Build/Products/Debug-iphoneos/wink.app/user_male4-75.png wink/user_male4-75.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/diogomartins/xcodeapps/wink/wink/user_male4-75.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/user_male4-75.png36"70BC0943-90D2-4200-87FD-5D57EFC96437-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCopyStringsFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/en.lproj/InfoPlist.strings wink/en.lproj/InfoPlist.strings
+s425948025.171508
+e425948025.176069
+r1
+xCopyStringsFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/en.lproj/InfoPlist.strings
+xwink/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy wink/en.lproj/InfoPlist.strings113"CopyStringsFile Build/Products/Debug-iphoneos/wink.app/en.lproj/InfoPlist.strings wink/en.lproj/InfoPlist.strings23f82b797363b941^16152d797363b941^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/diogomartins/xcodeapps/wink/wink/en.lproj/InfoPlist.strings0000000000000000^552"CopyStringsFile Build/Products/Debug-iphoneos/wink.app/en.lproj/InfoPlist.strings wink/en.lproj/InfoPlist.strings    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/en.lproj -- wink/en.lproj/InfoPlist.strings36"206D3A43-C036-4799-9072-B04BF3B70E04-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist
+s425948023.857719
+e425948023.860040
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/wink.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist191"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/wink.app/ResourceRules.pliste4a1db777363b941^4d2cdc777363b941^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist003834b7dcffdf42^730"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app36"D5E9C604-2C05-4B0D-B9B2-7581A6897275-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CCpResource wink/PAImageView.podspec Build/Products/Debug-iphoneos/wink.app/PAImageView.podspec
+s425948025.249439
+e425948025.251672
+r1
+xCpResource
+xwink/PAImageView.podspec
+xBuild/Products/Debug-iphoneos/wink.app/PAImageView.podspec
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Build/Products/Debug-iphoneos/wink.app/PAImageView.podspec94"CpResource wink/PAImageView.podspec Build/Products/Debug-iphoneos/wink.app/PAImageView.podspec81ea3f797363b941^2b6e40797363b941^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/PAImageView.podspec003834b7dcffdf42^571"CpResource wink/PAImageView.podspec Build/Products/Debug-iphoneos/wink.app/PAImageView.podspec    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/diogomartins/xcodeapps/wink/wink/PAImageView.podspec /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app36"02E5DA7E-33F8-42E4-A15E-7A361B15DF67-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CGenerateDSYMFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app.dSYM /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink
+s425948026.016585
+e425948026.068958
+r1
+xGenerateDSYMFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app.dSYM
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Generate /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app.dSYM104"GenerateDSYMFile Build/Products/Debug-iphoneos/wink.app.dSYM Build/Products/Debug-iphoneos/wink.app/winkfd49047a7363b941^c1a7117a7363b941^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app.dSYM003834b7dcffdf42^596"GenerateDSYMFile Build/Products/Debug-iphoneos/wink.app.dSYM Build/Products/Debug-iphoneos/wink.app/wink    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app.dSYM36"CB1A82D6-2215-4FE2-972A-3593BF6C6A7C-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CLd /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink normal armv7s
+s425948024.361896
+e425948025.163391
+r1
+xLd
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink
+xnormal
+xarmv7s
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/wink.LinkFileList
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/SidePanelViewController.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/MenuTableViewController.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/PAImageView.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/FirstViewController.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Link /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink60"Ld Build/Products/Debug-iphoneos/wink.app/wink normal armv7sb7b65c787363b941^a6d429797363b941^---0#0#1#--1378"Ld Build/Products/Debug-iphoneos/wink.app/wink normal armv7s    cd /Users/diogomartins/xcodeapps/wink    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/wink.LinkFileList -dead_strip -ObjC -framework CoreGraphics -framework MobileCoreServices -framework QuartzCore -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework MapKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Objects-normal/armv7s/wink_dependency_info.dat -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/wink36"9BDE68D9-609C-4FC6-91C0-4ACA6533C9BE-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-8DB27945CEAD45468EA30330.sh
+s425948023.868765
+e425948023.882392
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-8DB27945CEAD45468EA30330.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'139"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-8DB27945CEAD45468EA30330.shc2bdde777363b941^82e4e1777363b941^---0#0#1#--324"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-8DB27945CEAD45468EA30330.sh    cd /Users/diogomartins/xcodeapps/wink    /bin/sh -c /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-8DB27945CEAD45468EA30330.sh36"AB046DB6-25C0-4B07-BC10-9FC6588B6191-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-3115BC516CF244739965751C.sh
+s425948026.077712
+e425948026.343109
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-3115BC516CF244739965751C.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+o/* com.apple.actool.compilation-results */
+o/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'134"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-3115BC516CF244739965751C.sh363d147a7363b941^41d6577a7363b941^-241"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-425948026#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-425948026#29#50#-0#-----2@33"total size is 0  speedup is 0.00-425948026#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-425948026#112#43#-0#-----2@85"/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Assets.car-425948026#155#85#-0#-----0#0#1#--319"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-3115BC516CF244739965751C.sh    cd /Users/diogomartins/xcodeapps/wink    /bin/sh -c /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/Script-3115BC516CF244739965751C.sh36"3A1326F6-3F1B-4CA6-879C-1A3840D17C92-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CProcessInfoPlistFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Info.plist /Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist
+s425948026.005677
+e425948026.008775
+r1
+xProcessInfoPlistFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Info.plist
+x/Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Process /Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist91"ProcessInfoPlistFile Build/Products/Debug-iphoneos/wink.app/Info.plist wink/wink-Info.plist2785017a7363b941^793f027a7363b941^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist0000000000000000^906"ProcessInfoPlistFile Build/Products/Debug-iphoneos/wink.app/Info.plist wink/wink-Info.plist    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist -genpkginfo /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/ResourceRules.plist -additionalcontentfile /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/assetcatalog_generated_info.plist -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/Info.plist36"4FA2099F-DD32-4BCE-9A18-A5A74353FA40-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/wink-Prefix-fqirgyiubldowfauptczrjlwhout_ast/wink-Prefix.pch.pch wink/wink-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.pch wink/wink-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948023.891873
+e425948023.930353
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.pch
+xwink/wink-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile wink/wink-Prefix.pch201"ProcessPCH Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.pch wink/wink-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd366e4777363b941^e02bee777363b941^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch0000000000000000^3696"ProcessPCH Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.pch wink/wink-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-bzrigrzjtlrxqecfytoszbmuancq/wink-Prefix.pch.pch36"2BA5C883-5AAB-452C-BAC2-B61DE494D6B8-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent
+s425948026.376319
+e425948026.378542
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection212"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent212"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcentd063607a7363b941^86e8607a7363b941^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent003834b7dcffdf42^732"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphoneos/wink.build/wink.xcent36"D0F2B95B-308E-4A42-92FA-A77C88590DBB-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CProcessProductPackaging /Users/diogomartins/Library/MobileDevice/Provisioning\ Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision
+s425948026.351119
+e425948026.366582
+r1
+xProcessProductPackaging
+x/Users/diogomartins/Library/MobileDevice/Provisioning Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"ProcessProductPackaging /Users/diogomartins/Library/MobileDevice/Provisioning\ Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision204"ProcessProductPackaging /Users/diogomartins/Library/MobileDevice/Provisioning\ Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision84f3597a7363b941^e8d85d7a7363b941^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision003834b7dcffdf42^690"ProcessProductPackaging /Users/diogomartins/Library/MobileDevice/Provisioning\ Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/diogomartins/Library/MobileDevice/Provisioning\ Profiles/6226EECE-BABF-4CEA-8934-F3F52F826B2E.mobileprovision -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app/embedded.mobileprovision36"FBFFEBD2-699A-472D-BD75-6FD910670B95-
+bEC4B409B-BF6C-4417-854D-0B60FF88DBD9
+
+CTouch /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/wink.app
+r0
+

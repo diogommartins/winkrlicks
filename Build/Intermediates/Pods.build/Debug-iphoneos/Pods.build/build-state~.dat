@@ -1,0 +1,98 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534D64380000000000000132
+t1397580856
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000533C4A4E000000000000036B
+t1396460110
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A4F000000000000019E
+t1396460111
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A510000000000A90C10
+t1396460113
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o
+t1404255223
+s3416
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods.LinkFileList
+c0000000053B33BF7000000000000007F
+t1404255223
+s127
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+c0000000053B33BF70000000000161318
+t1404255223
+s1446680
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-JASidePanels.a
+c0000000053B33BF70000000000041D00
+t1404255223
+s269568
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a
+c0000000053B33BF60000000000016068
+t1404255222
+s90216
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a
+t2
+s0
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+c0000000053B323790000000000000070
+t1404248953
+s112
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd60233777363b941^0c9034777363b941^---0#1#1#--18"Check dependencies36"6BF647C1-E097-4DBF-9CB9-24A215A6CA4A-
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948023.206942
+e425948023.436585
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m218"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere10d35777363b941^3bc46f777363b941^---0#0#1#-19%DVTDocumentLocation2@68"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m0000000000000000^3612"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o Pods-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Pods-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/UIColor-CrayolaCrayons -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods-dummy.o36"1FB23167-5A38-4998-9E92-2C47CD072F21-
+b73C724F2-1B38-49CE-9E1E-04B0D2ADE743
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a normal armv7s
+s425948023.444902
+e425948023.662478
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a normal armv7s96"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a normal armv7s06f571777363b941^8d98a9777363b941^---0#0#1#--992"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a normal armv7s    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods.build/Objects-normal/armv7s/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-JASidePanels -lPods-UIColor-CrayolaCrayons -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods.a36"8813E750-7383-4BD9-8876-F71C37FC2CE6-
+b73C724F2-1B38-49CE-9E1E-04B0D2ADE743
+

@@ -1,0 +1,151 @@
+TPods-UIColor-CrayolaCrayons
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.pch Pods-UIColor-CrayolaCrayons-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.o /Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534D64380000000000000132
+t1397580856
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000533C4A4E000000000000036B
+t1396460110
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A4F000000000000019E
+t1396460111
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A510000000000A90C10
+t1396460113
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.o
+t1404255221
+s3840
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons.LinkFileList
+c0000000053B33BF30000000000000148
+t1404255219
+s328
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.o
+t1404255221
+s85960
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.pch
+t1404255221
+s98640
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a
+t1404255222
+s90216
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m
+c0000000053B32379000000000000009E
+t1404248953
+s158
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-prefix.pch
+c0000000053B32379000000000000004D
+t1404248953
+s77
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+c0000000053B32379000000000000099B
+t1404248953
+s2459
+
+N/Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.h
+c0000000053B323790000000000001471
+t1404248953
+s5233
+
+N/Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m
+c0000000053B323790000000000004599
+t1404248953
+s17817
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese4da80eed664b941^b4aa81eed664b941^---0#1#1#--18"Check dependencies36"E051B94D-5C47-44AD-ACEF-F7A952ADAFD9-
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948021.538556
+e425948021.880599
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m287"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.o Pods-UIColor-CrayolaCrayons-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler06f589757363b941^116fe1757363b941^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m0000000000000000^4064"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.o Pods-UIColor-CrayolaCrayons-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons-dummy.o36"F5484DB2-6EE4-49DD-9344-7C996925841B-
+b0A6F5EF5-44B5-42F5-8BB3-085B19C1444B
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.o /Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948021.599592
+e425948022.021732
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.o
+x/Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m
+d/Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m279"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.o UIColor-CrayolaCrayons/code/UIColor+Crayola.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerb79699757363b941^089005767363b941^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m0000000000000000^4012"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.o UIColor-CrayolaCrayons/code/UIColor+Crayola.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.dia -c /Users/diogomartins/xcodeapps/wink/Pods/UIColor-CrayolaCrayons/code/UIColor+Crayola.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/UIColor+Crayola.o36"C125A913-B8A9-4EF8-B64D-E0F19148BC69-
+b0A6F5EF5-44B5-42F5-8BB3-085B19C1444B
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a normal armv7s
+s425948022.360362
+e425948022.401649
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a normal armv7s119"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a normal armv7s6e4f5c767363b941^ccd266767363b941^---0#0#1#--1014"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a normal armv7s    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Objects-normal/armv7s/Pods-UIColor-CrayolaCrayons.LinkFileList -framework Foundation -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-UIColor-CrayolaCrayons.a36"AB43A9AA-AA8B-4102-BED6-58D2CCB5A292-
+b0A6F5EF5-44B5-42F5-8BB3-085B19C1444B
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-eojstpruenohbofvqaufohxhunky_ast/Pods-UIColor-CrayolaCrayons-prefix.pch.pch Pods-UIColor-CrayolaCrayons-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.pch Pods-UIColor-CrayolaCrayons-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948019.780621
+e425948021.530878
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.pch
+xPods-UIColor-CrayolaCrayons-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile Pods-UIColor-CrayolaCrayons-prefix.pch300"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.pch Pods-UIColor-CrayolaCrayons-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler78ecc7737363b941^d1e787757363b941^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-prefix.pch0000000000000000^3921"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.pch Pods-UIColor-CrayolaCrayons-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/Pods-UIColor-CrayolaCrayons-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-UIColor-CrayolaCrayons.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-UIColor-CrayolaCrayons-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-UIColor-CrayolaCrayons-prefix-anutwmifibrwrjcarfjudmczvjim/Pods-UIColor-CrayolaCrayons-prefix.pch.pch36"36C513D3-CBBF-4FD3-B0AC-9A81D86D436B-
+b0A6F5EF5-44B5-42F5-8BB3-085B19C1444B
+

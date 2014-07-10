@@ -1,0 +1,215 @@
+TPods-JASidePanels
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.o /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.o /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A510000000000A90C10
+t1396460113
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533C4A520000000000649DB0
+t1396460114
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534D64AC0000000000000198
+t1397580972
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533C4A5E00000000000003B4
+t1396460126
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A63000000000000019E
+t1396460131
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.o
+t1405029863
+s216192
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.o
+t1405029863
+s3432
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels.LinkFileList
+c0000000053BF0DE700000000000001DD
+t1405029863
+s477
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.o
+t1405029863
+s40940
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.pch
+t1405029863
+s126876
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.pch
+t1405029863
+s127904
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a
+t1405029863
+s263584
+
+N/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.h
+c0000000053B1D80E0000000000001D85
+t1404164110
+s7557
+
+N/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m
+c0000000053B1D80E0000000000009984
+t1404164110
+s39300
+
+N/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.h
+c0000000053B1D80E00000000000006CF
+t1404164110
+s1743
+
+N/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m
+c0000000053B1D80E0000000000000704
+t1404164110
+s1796
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m
+c0000000053BACE70000000000000008A
+t1404751472
+s138
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-prefix.pch
+c0000000053BACE70000000000000004D
+t1404751472
+s77
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+c0000000053BACE700000000000000A6B
+t1404751472
+s2667
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies693b7a1f546fb941^ad177b1f546fb941^---0#1#1#--18"Check dependencies36"8F1B9DAC-208B-4506-A8EA-6B3C0948B3D9-
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.o /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722663.595667
+e426722663.793977
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.o
+x/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m
+d/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m289"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.o JASidePanels/JASidePanels/Source/JASidePanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc1919867456fb941^0342cb67456fb941^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m0000000000000000^4152"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.o JASidePanels/JASidePanels/Source/JASidePanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.dia -c /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/JASidePanelController.o36"D6CA33BD-2E94-4010-9C57-1FA3FB649006-
+b8ACBD19B-70F7-459F-8CD9-2278EFE77BDA
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722663.656791
+e426722663.689363
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m260"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.o Pods-JASidePanels-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler083ca867456fb941^c18db067456fb941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m0000000000000000^4064"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.o Pods-JASidePanels-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels-dummy.o36"F285364A-51AA-476E-BBCD-1D46544E45CA-
+b8ACBD19B-70F7-459F-8CD9-2278EFE77BDA
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.o /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722663.682874
+e426722663.758591
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.o
+x/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m
+d/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.h
+d/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/JASidePanelController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m303"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.o JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8ee8ae67456fb941^f432c267456fb941^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m0000000000000000^4194"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.o JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.dia -c /Users/diogomartins/xcodeapps/wink/Pods/JASidePanels/JASidePanels/Source/UIViewController+JASidePanel.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/UIViewController+JASidePanel.o36"08BE3033-A0D7-45BC-A109-1E468A84D7E1-
+b8ACBD19B-70F7-459F-8CD9-2278EFE77BDA
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a normal i386
+s426722663.925840
+e426722663.936018
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a normal i386114"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a normal i386be15ed67456fb941^239fef67456fb941^---0#0#1#--1039"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a normal i386    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Objects-normal/i386/Pods-JASidePanels.LinkFileList -framework Foundation -framework QuartzCore -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods-JASidePanels.a36"F54EFE27-5585-46CB-812D-C93E10440B89-
+b8ACBD19B-70F7-459F-8CD9-2278EFE77BDA
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-JASidePanels-prefix-bcngiituvgjldzgyhhnkjbvdslur_ast/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-JASidePanels-prefix-efplksookmeaslagxyxuoegfkhst_ast/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722663.479585
+e426722663.527025
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.pch
+xPods-JASidePanels-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-JASidePanels-prefix.pch268"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2bdc7a67456fb941^81eb8667456fb941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-prefix.pch0000000000000000^3921"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-apfsrqwcolleaafdkzfnsloevpfu/Pods-JASidePanels-prefix.pch.pch36"D12239E9-0C91-44B6-989F-EE97CA72355C-
+b8ACBD19B-70F7-459F-8CD9-2278EFE77BDA
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722663.250117
+e426722663.481600
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.pch
+xPods-JASidePanels-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-JASidePanels-prefix.pch268"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b1d4067456fb941^664a7b67456fb941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-prefix.pch0000000000000000^3955"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.pch Pods-JASidePanels-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/Pods-JASidePanels-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-JASidePanels.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-JASidePanels-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-JASidePanels-prefix-gcsfkthdyewiigcqmmjhketkvqyi/Pods-JASidePanels-prefix.pch.pch36"B43F8835-BF01-42CF-9E6E-A45634FE669F-
+b8ACBD19B-70F7-459F-8CD9-2278EFE77BDA
+

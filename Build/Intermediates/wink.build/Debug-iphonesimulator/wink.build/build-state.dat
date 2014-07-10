@@ -1,0 +1,1784 @@
+Twink
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-8DB27945CEAD45468EA30330.sh
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.pch wink/wink-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o /Users/diogomartins/xcodeapps/wink/wink/WKPlace.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o /Users/diogomartins/xcodeapps/wink/wink/WKUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o /Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o /Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o /Users/diogomartins/xcodeapps/wink/wink/WKLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o /Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o /Users/diogomartins/xcodeapps/wink/wink/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o /Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534D64AC0000000000000198
+t1397580972
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533C4A5E00000000000003B4
+t1396460126
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A63000000000000019E
+t1396460131
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000533C4A6300000000000085D0
+t1396460131
+s34256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+c00000000534D63EE00000000005CD080
+t1397580782
+s6082688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+c00000000533C4A630000000000304DA0
+t1396460131
+s3165600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+c00000000533C4A640000000000837DB0
+t1396460132
+s8617392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+c00000000533C4A6300000000001BE720
+t1396460131
+s1828640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+c00000000533C4A6300000000001335C0
+t1396460131
+s1258944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+c00000000533C4A630000000000008630
+t1396460131
+s34352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+c00000000533C4A6300000000000942B0
+t1396460131
+s606896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533C4A64000000000058E0E0
+t1396460132
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533C4A6500000000005B82F0
+t1396460133
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534D63EE0000000000446820
+t1397580782
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000533C4A6400000000003599D0
+t1396460132
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000533C4A6400000000000F1A80
+t1396460132
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533C4A6500000000002FC3B0
+t1396460133
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000533C4A65000000000004B000
+t1396460133
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A65000000000088D8C0
+t1396460133
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000533C4A6600000000002E6B60
+t1396460134
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000533C4A6600000000001BE790
+t1396460134
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533C4A660000000000037680
+t1396460134
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533C4A66000000000048F720
+t1396460134
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000533C4A66000000000013FD70
+t1396460134
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000533C4A6700000000001081C0
+t1396460135
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533C4A680000000001F1DE10
+t1396460136
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000533C4A7100000000002BC360
+t1396460145
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533C4A750000000000002338
+t1396460149
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000533C4A75000000000008D370
+t1396460149
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533C4A750000000000392E20
+t1396460149
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000531A0A3600000000000121D0
+t1394215478
+s74192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533C4A760000000000014A80
+t1396460150
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533C4A760000000000033BA0
+t1396460150
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000533C4A76000000000001CFB0
+t1396460150
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000533C4A76000000000001B2B0
+t1396460150
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000533C4A7600000000000C9570
+t1396460150
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533C4A760000000000063280
+t1396460150
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533C4A760000000000008880
+t1396460150
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533C4A760000000000015080
+t1396460150
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000533C4A7600000000000230F0
+t1396460150
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000533C4A76000000000000E380
+t1396460150
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533C4A760000000000089380
+t1396460150
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533C4A760000000000017320
+t1396460150
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533C4A760000000000039CD0
+t1396460150
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000533C4A76000000000000B0B0
+t1396460150
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533C4A760000000000167E80
+t1396460150
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000533C4A7600000000000106A0
+t1396460150
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000533C4A76000000000001CE40
+t1396460150
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000533C4A7600000000000740C0
+t1396460150
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000533C4A76000000000006CA60
+t1396460150
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000533C4A76000000000001BAD0
+t1396460150
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533C4A760000000000084A20
+t1396460150
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534D63EE000000000000514C
+t1397580782
+s20812
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.pch
+t1405029864
+s122764
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o
+t1405029864
+s66188
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o
+t1405029864
+s66932
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o
+t1405033132
+s95028
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o
+t1405029864
+s46216
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o
+t1405029864
+s57016
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o
+t1405030380
+s60060
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o
+t1405029864
+s106688
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.o
+t1405031426
+s56104
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o
+t1405029864
+s43416
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o
+t1405029864
+s24216
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o
+t1405029864
+s15828
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o
+t1405029864
+s21520
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o
+t1405029864
+s3912
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o
+t1405029864
+s3584
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/wink.LinkFileList
+c0000000053BF0DE8000000000000077D
+t1405029864
+s1917
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-3115BC516CF244739965751C.sh
+c0000000053BF0DE8000000000000002F
+t1405029864
+s47
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-8DB27945CEAD45468EA30330.sh
+c0000000053BF0DE80000000000000103
+t1405029864
+s259
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/assetcatalog_dependencies.txt
+t1405029866
+s350
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/assetcatalog_generated_info.plist
+t1405029866
+s525
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods.a
+c0000000053BF0DE800000000001DD900
+t1405029864
+s1956096
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app
+t1405033132
+s1394
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app.dSYM
+t1405033091
+s102
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Base.lproj/Main.storyboardc
+t1405029866
+s510
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Info.plist
+t1405029867
+s1280
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/PAImageView.podspec
+t1405029865
+s577
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/PkgInfo
+t1405029867
+s8
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/background.jpg
+t1405029865
+s75126
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/en.lproj/InfoPlist.strings
+t1405029865
+s42
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/geo_fence-100.png
+t1405029865
+s7765
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/street_view-50-white.png
+t1405032440
+s3375
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/street_view-90-white.png
+t1405032440
+s3375
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/street_view-90.png
+t1405029865
+s5297
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink
+t1405033132
+s2436836
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/FacebookSDK
+c0000000053A4655E0000000001AB23AC
+t1403282782
+s27993004
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAccessTokenData.h
+c0000000053A4655E00000000000019F7
+t1403282782
+s6647
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppCall.h
+c0000000053A4655E00000000000023C5
+t1403282782
+s9157
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppEvents.h
+c0000000053A4655E0000000000004B12
+t1403282782
+s19218
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppLinkData.h
+c0000000053A4655E00000000000006DA
+t1403282782
+s1754
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+c0000000053A4655E000000000000055C
+t1403282782
+s1372
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogs.h
+c0000000053A4655E000000000000C2B3
+t1403282782
+s49843
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsData.h
+c0000000053A4655E0000000000000538
+t1403282782
+s1336
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsParams.h
+c0000000053A4655E0000000000000341
+t1403282782
+s833
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBError.h
+c0000000053A4655E000000000000395B
+t1403282782
+s14683
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBErrorUtility.h
+c0000000053A4655E00000000000009B9
+t1403282782
+s2489
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+c0000000053A4655E0000000000000B3D
+t1403282782
+s2877
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+c0000000053A4655E00000000000024AF
+t1403282782
+s9391
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphLocation.h
+c0000000053A4655E000000000000075F
+t1403282782
+s1887
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphObject.h
+c0000000053A4655E0000000000002B41
+t1403282782
+s11073
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphPlace.h
+c0000000053A4655E000000000000076E
+t1403282782
+s1902
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphUser.h
+c0000000053A4655E00000000000009C6
+t1403282782
+s2502
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBInsights.h
+c0000000053A4655E0000000000000A9F
+t1403282782
+s2719
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLikeControl.h
+c0000000053A4655E0000000000001437
+t1403282782
+s5175
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLinkShareParams.h
+c0000000053A4655E0000000000000CF0
+t1403282782
+s3312
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLoginView.h
+c0000000053A4655E0000000000001C61
+t1403282782
+s7265
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBNativeDialogs.h
+c0000000053A4655E0000000000000F98
+t1403282782
+s3992
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+c0000000053A4655E0000000000000DA0
+t1403282782
+s3488
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+c0000000053A4655E000000000000083E
+t1403282782
+s2110
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+c0000000053A4655E000000000000037D
+t1403282782
+s893
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+c0000000053A4655E0000000000000B63
+t1403282782
+s2915
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPhotoParams.h
+c0000000053A4655E000000000000070C
+t1403282782
+s1804
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+c0000000053A4655E0000000000002125
+t1403282782
+s8485
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBProfilePictureView.h
+c0000000053A4655E00000000000009A7
+t1403282782
+s2471
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequest.h
+c0000000053A4655E00000000000064F3
+t1403282782
+s25843
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequestConnection.h
+c0000000053A4655E00000000000065C4
+t1403282782
+s26052
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSDKMacros.h
+c0000000053A4655E0000000000000353
+t1403282782
+s851
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSession.h
+c0000000053A4655E000000000000966B
+t1403282782
+s38507
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+c0000000053A4655E0000000000001B27
+t1403282782
+s6951
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSettings.h
+c0000000053A4655E00000000000029BC
+t1403282782
+s10684
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogParams.h
+c0000000053A4655E000000000000034D
+t1403282782
+s845
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+c0000000053A4655E000000000000034A
+t1403282782
+s842
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBTooltipView.h
+c0000000053A4655E00000000000010BD
+t1403282782
+s4285
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+c0000000053A4655E0000000000001006
+t1403282782
+s4102
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBViewController.h
+c0000000053A4655E0000000000000F64
+t1403282782
+s3940
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBWebDialogs.h
+c0000000053A4655E00000000000023AA
+t1403282782
+s9130
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FacebookSDK.h
+c0000000053A4655E00000000000016BC
+t1403282782
+s5820
+
+N/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/NSError+FBError.h
+c0000000053A4655E000000000000091D
+t1403282782
+s2333
+
+N/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.h
+c0000000053B49D75000000000000014E
+t1404345717
+s334
+
+N/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+c0000000053BAFD750000000000000C8E
+t1404763509
+s3214
+
+N/Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard
+c0000000053BB34CF000000000000C9ED
+t1404777679
+s51693
+
+N/Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.h
+c0000000053BB35A50000000000000163
+t1404777893
+s355
+
+N/Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m
+c0000000053BB35A6000000000000109A
+t1404777894
+s4250
+
+N/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.h
+c0000000053BF1C9F000000000000025A
+t1405033631
+s602
+
+N/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+c0000000053BF1C9F0000000000001C45
+t1405033631
+s7237
+
+N/Users/diogomartins/xcodeapps/wink/wink/Images.xcassets
+c0000000053BAA03C00000000000002EC
+t1404739644
+s748
+
+N/Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.h
+c0000000053B423FD00000000000000F8
+t1404314621
+s248
+
+N/Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m
+c0000000053BB361800000000000003F2
+t1404778008
+s1010
+
+N/Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.h
+c0000000053BAC5B6000000000000019D
+t1404749238
+s413
+
+N/Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m
+c0000000053BB34CF0000000000001278
+t1404777679
+s4728
+
+N/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.h
+c0000000053B1D8470000000000000103
+t1404164167
+s259
+
+N/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+c0000000053BB340B000000000000136B
+t1404777483
+s4971
+
+N/Users/diogomartins/xcodeapps/wink/wink/PAImageView.h
+c000000005396BA920000000000000361
+t1402387090
+s865
+
+N/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+c000000005396BA9200000000000029EE
+t1402387090
+s10734
+
+N/Users/diogomartins/xcodeapps/wink/wink/PAImageView.podspec
+c000000005396BA920000000000000241
+t1402387090
+s577
+
+N/Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m
+c0000000053BF14020000000000000925
+t1405031426
+s2341
+
+N/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.h
+c0000000053B1D8E2000000000000010D
+t1404164322
+s269
+
+N/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+c0000000053BB201F0000000000000510
+t1404772383
+s1296
+
+N/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.h
+c0000000053B343C600000000000015B5
+t1404257222
+s5557
+
+N/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m
+c0000000053B343DB000000000000330D
+t1404257243
+s13069
+
+N/Users/diogomartins/xcodeapps/wink/wink/WKLocation.h
+c0000000053BF00EA0000000000000257
+t1405026538
+s599
+
+N/Users/diogomartins/xcodeapps/wink/wink/WKLocation.m
+c0000000053BF00EA000000000000032A
+t1405026538
+s810
+
+N/Users/diogomartins/xcodeapps/wink/wink/WKPlace.h
+c0000000053BF00EA0000000000000269
+t1405026538
+s617
+
+N/Users/diogomartins/xcodeapps/wink/wink/WKPlace.m
+c0000000053BF00EA0000000000000455
+t1405026538
+s1109
+
+N/Users/diogomartins/xcodeapps/wink/wink/WKUser.h
+c0000000053BF00EA00000000000000E3
+t1405026538
+s227
+
+N/Users/diogomartins/xcodeapps/wink/wink/WKUser.m
+c0000000053BF00EA00000000000000C6
+t1405026538
+s198
+
+N/Users/diogomartins/xcodeapps/wink/wink/background.jpg
+c0000000053B49EB70000000000012576
+t1404346039
+s75126
+
+N/Users/diogomartins/xcodeapps/wink/wink/en.lproj/InfoPlist.strings
+c0000000053ACB51E000000000000002D
+t1403827486
+s45
+
+N/Users/diogomartins/xcodeapps/wink/wink/geo_fence-100.png
+c0000000053B41C970000000000001E55
+t1404312727
+s7765
+
+N/Users/diogomartins/xcodeapps/wink/wink/main.m
+c0000000053ACB51E0000000000000166
+t1403827486
+s358
+
+N/Users/diogomartins/xcodeapps/wink/wink/street_view-50-white.png
+c0000000053BF17DD0000000000000D2F
+t1405032413
+s3375
+
+N/Users/diogomartins/xcodeapps/wink/wink/street_view-90-white.png
+c0000000053BF17DD0000000000000D2F
+t1405032413
+s3375
+
+N/Users/diogomartins/xcodeapps/wink/wink/street_view-90.png
+c0000000053B4325900000000000014B1
+t1404318297
+s5297
+
+N/Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist
+c0000000053BAC21500000000000006B1
+t1404748309
+s1713
+
+N/Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch
+c0000000053ACB51E0000000000000158
+t1403827486
+s344
+
+N/usr/lib/libSystem.B.dylib
+c00000000531A0A26000000000000D2A0
+t1394215462
+s53920
+
+N/usr/lib/system/libcache.dylib
+c00000000531A0A360000000000013870
+t1394215478
+s79984
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000531DAC210000000000030250
+t1394453537
+s197200
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000531A0A260000000000017910
+t1394215462
+s96528
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000531A0A35000000000001A130
+t1394215477
+s106800
+
+N/usr/lib/system/libdnsinfo.dylib
+c00000000531DAC66000000000000C2A0
+t1394453606
+s49824
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000531A0A360000000000008CE0
+t1394215478
+s36064
+
+N/usr/lib/system/liblaunch.dylib
+c00000000531DAC69000000000001D350
+t1394453609
+s119632
+
+N/usr/lib/system/libmacho.dylib
+c00000000531A0A350000000000014F90
+t1394215477
+s85904
+
+N/usr/lib/system/libquarantine.dylib
+c00000000531DB28A000000000000D790
+t1394455178
+s55184
+
+N/usr/lib/system/libremovefile.dylib
+c00000000531DAC70000000000000C330
+t1394453616
+s49968
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000531A0A36000000000000A080
+t1394215478
+s41088
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053203F1300000000001F91C0
+t1394622227
+s2068928
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000531DB289000000000001BC00
+t1394455177
+s113664
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000531A0A26000000000008B580
+t1394215462
+s570752
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053203F1300000000000569B0
+t1394622227
+s354736
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000531A0A260000000000070540
+t1394215462
+s460096
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000531A0A260000000000025620
+t1394215462
+s153120
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000531DB283000000000000C780
+t1394455171
+s51072
+
+N/usr/lib/system/libunc.dylib
+c00000000531A0A30000000000000D430
+t1394215472
+s54320
+
+N/usr/lib/system/libunwind.dylib
+c00000000531A0A37000000000001BAA0
+t1394215479
+s113312
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/WKLocation.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/WKPlace.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/WKUser.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/wink/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7100891f546fb941^4c6b8f1f546fb941^---0#1#1#--18"Check dependencies36"1A5A2865-A9CD-4697-A5EA-9ABD89FFD842-
+
+CCompileAssetCatalog /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app /Users/diogomartins/xcodeapps/wink/wink/Images.xcassets
+s426722665.113093
+e426722666.980836
+r1
+xCompileAssetCatalog
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app
+x/Users/diogomartins/xcodeapps/wink/wink/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/LaunchImage-700-568h@2x.png
+o/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Assets.car
+o/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/wink.app wink/Images.xcassets86"CompileAssetCatalog Build/Products/Debug-iphonesimulator/wink.app wink/Images.xcassetsdffe1c69456fb941^4418fb6a456fb941^-378"/* com.apple.actool.compilation-results *//Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/LaunchImage-700-568h@2x.png/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Assets.car/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@72"file://localhost/Users/diogomartins/xcodeapps/wink/wink/Images.xcassets/0000000000000000^1094"CompileAssetCatalog Build/Products/Debug-iphonesimulator/wink.app wink/Images.xcassets    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app /Users/diogomartins/xcodeapps/wink/wink/Images.xcassets36"6510AF94-F3E2-41BE-A539-DBEF28A8D842-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.715593
+e426722664.822491
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o
+x/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m
+d/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSession.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBError.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m193"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o wink/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf04db768456fb941^0c92d268456fb941^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m0000000000000000^4137"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o wink/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.dia -c /Users/diogomartins/xcodeapps/wink/wink/AppDelegate.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o36"0D19DAB0-6501-4B51-95FC-838A4AB9E8A6-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o /Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.824002
+e426722664.898682
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.h
+d/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m215"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o wink/DefaultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0f09d368456fb941^9df7e768456fb941^---0#0#1#-19%DVTDocumentLocation2@80"file://localhost/Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m0000000000000000^4203"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o wink/DefaultsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o36"65465BD5-118E-4FAE-A01D-280A2ED25FC0-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426726431.585982
+e426726431.686709
+r0
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.h
+d/Users/diogomartins/xcodeapps/wink/wink/WKPlace.h
+d/Users/diogomartins/xcodeapps/wink/wink/WKLocation.h
+d/Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.h
+d/Users/diogomartins/xcodeapps/wink/wink/PAImageView.h
+o/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:139:1: error: expected method body
+o- (IBAction)toggleSidePanelVisibility:(UIBarButtonItem *)sender {
+o^
+o/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:93:6: error: use of undeclared identifier 'FBRequestConnection'
+o    [FBRequestConnection startWithGraphPath: @"/search"
+o     ^
+o/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:183:23: warning: unused variable 'indexPath' [-Wunused-variable]
+o        NSIndexPath * indexPath = [objects objectAtIndex:1];
+o                      ^
+o/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:34:17: warning: method definition for 'toggleSidePanelVisibility:' not found [-Wincomplete-implementation]
+o@implementation FirstViewController
+o                ^
+o/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:25:1: note: method 'toggleSidePanelVisibility:' declared here
+o- (IBAction) toggleSidePanelVisibility: (UIBarButtonItem *)sender;
+o^
+o2 warnings and 2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m209"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o wink/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf71e961f546fb941^016db31f546fb941^-1017"/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:139:1: error: expected method body- (IBAction)toggleSidePanelVisibility:(UIBarButtonItem *)sender {^/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:93:6: error: use of undeclared identifier 'FBRequestConnection'    [FBRequestConnection startWithGraphPath: @"/search"     ^/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:183:23: warning: unused variable 'indexPath' [-Wunused-variable]        NSIndexPath * indexPath = [objects objectAtIndex:1];                      ^/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:34:17: warning: method definition for 'toggleSidePanelVisibility:' not found [-Wincomplete-implementation]@implementation FirstViewController                ^/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m:25:1: note: method 'toggleSidePanelVisibility:' declared here- (IBAction) toggleSidePanelVisibility: (UIBarButtonItem *)sender;^2 warnings and 2 errors generated.4(36%IDEClangDiagnosticActivityLogMessage2@20"Expected method body-426726431#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@77"file://localhost/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m0000000000000000^138#0#138#0#4973#0#11"Parse Issue--2@50"Use of undeclared identifier 'FBRequestConnection'-426726431#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m0000000000000000^92#5#92#5#3009#0#14"Semantic Issue--2@27"Unused variable 'indexPath'-426726431#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m0000000000000000^182#22#182#22#6440#0#19"Unused Entity Issue--2@60"Method definition for 'toggleSidePanelVisibility:' not found-426726431#18446744073709551615#0#1(2@49"Method 'toggleSidePanelVisibility:' declared here-426726431#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m0000000000000000^24#0#24#0#567#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@77"file://localhost/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m0000000000000000^33#16#33#16#960#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@77"file://localhost/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m0000000000000000^4185"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o wink/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/FirstViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o36"58EF82F0-BAB2-42AB-9216-D08526046137-
+bC765AE32-4A0C-45E2-BDF8-E8B740FBE48E
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o /Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.781480
+e426722664.853519
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o
+x/Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m
+d/Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m213"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o wink/LocationTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere927c868456fb941^7ffadb68456fb941^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m0000000000000000^4197"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o wink/LocationTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.dia -c /Users/diogomartins/xcodeapps/wink/wink/LocationTableViewCell.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o36"3AC47408-8A77-4027-9D81-2170088CF23A-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o /Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.695798
+e426722664.839717
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSession.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBError.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.h
+d/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m213"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o wink/LoginUIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd236b268456fb941^94fad668456fb941^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m0000000000000000^4197"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o wink/LoginUIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/LoginUIViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o36"E457BF1D-23D6-4F44-8D47-ECD417368B53-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426726431.585998
+e426726431.684951
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.h
+d/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.h
+d/Users/diogomartins/xcodeapps/wink/wink/PAImageView.h
+d/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.h
+d/Users/diogomartins/xcodeapps/wink/wink/DefaultsViewController.h
+d/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.h
+d/Users/diogomartins/xcodeapps/wink/wink/WKPlace.h
+d/Users/diogomartins/xcodeapps/wink/wink/WKLocation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m217"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o wink/MenuTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4225961f546fb941^9d64b31f546fb941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m0000000000000000^4209"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o wink/MenuTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/MenuTableViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o36"57CAA37C-E1DB-45A0-827E-8C005A3C027E-
+bC765AE32-4A0C-45E2-BDF8-E8B740FBE48E
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.634555
+e426722664.759931
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o
+x/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m
+d/Users/diogomartins/xcodeapps/wink/wink/PAImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m193"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o wink/PAImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d87a268456fb941^2a8bc268456fb941^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Users/diogomartins/xcodeapps/wink/wink/PAImageView.m0000000000000000^4137"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o wink/PAImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.dia -c /Users/diogomartins/xcodeapps/wink/wink/PAImageView.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o36"4F6EA131-B520-42A5-9A54-B36BE3B2C3DA-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.o /Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426724226.852657
+e426724226.931644
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.o
+x/Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m
+d/Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSession.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBError.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/diogomartins/xcodeapps/wink/wink/WKPlace.h
+d/Users/diogomartins/xcodeapps/wink/wink/WKLocation.h
+d/Users/diogomartins/xcodeapps/wink/wink/FirstViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m193"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.o wink/PlaceSearch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler855fda824b6fb941^ae80ee824b6fb941^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m0000000000000000^4137"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.o wink/PlaceSearch.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.dia -c /Users/diogomartins/xcodeapps/wink/wink/PlaceSearch.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.o36"D5E75FF4-A8C4-4876-9FEA-539A50189095-
+b9F79B117-79CB-41E0-BF5E-E76C9C4437AA
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.572601
+e426722664.631656
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o
+x/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m
+d/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m217"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o wink/SidePanelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9baf9268456fb941^2ec9a168456fb941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m0000000000000000^4209"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o wink/SidePanelViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.dia -c /Users/diogomartins/xcodeapps/wink/wink/SidePanelViewController.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o36"890C3A38-1F13-44CF-A534-75AE78635329-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o /Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.632939
+e426722664.694513
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o
+x/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m
+d/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m211"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o wink/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere61ea268456fb941^200cb468456fb941^---0#0#1#-19%DVTDocumentLocation2@78"file://localhost/Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m0000000000000000^4191"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o wink/UIImage+ImageEffects.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.dia -c /Users/diogomartins/xcodeapps/wink/wink/UIImage+ImageEffects.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o36"9645BFF6-7AD4-4BD6-A37D-C059EF12B3EF-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o /Users/diogomartins/xcodeapps/wink/wink/WKLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.761322
+e426722664.818310
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o
+x/Users/diogomartins/xcodeapps/wink/wink/WKLocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/WKLocation.m
+d/Users/diogomartins/xcodeapps/wink/wink/WKLocation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/diogomartins/xcodeapps/wink/wink/WKLocation.m191"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o wink/WKLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler973bc368456fb941^bc95d168456fb941^---0#0#1#-19%DVTDocumentLocation2@68"file://localhost/Users/diogomartins/xcodeapps/wink/wink/WKLocation.m0000000000000000^4131"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o wink/WKLocation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.dia -c /Users/diogomartins/xcodeapps/wink/wink/WKLocation.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o36"D9921E43-0034-4171-AD11-1E1A87C9005D-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o /Users/diogomartins/xcodeapps/wink/wink/WKPlace.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.572605
+e426722664.633309
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o
+x/Users/diogomartins/xcodeapps/wink/wink/WKPlace.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/WKPlace.m
+d/Users/diogomartins/xcodeapps/wink/wink/WKPlace.h
+d/Users/diogomartins/xcodeapps/wink/wink/WKLocation.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSession.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBError.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/diogomartins/xcodeapps/wink/wink/WKPlace.m185"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o wink/WKPlace.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere6ad9268456fb941^3221a268456fb941^---0#0#1#-19%DVTDocumentLocation2@65"file://localhost/Users/diogomartins/xcodeapps/wink/wink/WKPlace.m0000000000000000^4113"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o wink/WKPlace.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.dia -c /Users/diogomartins/xcodeapps/wink/wink/WKPlace.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o36"F98CED8F-4B21-4118-96F3-23502A432CBE-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o /Users/diogomartins/xcodeapps/wink/wink/WKUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.572995
+e426722664.623029
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o
+x/Users/diogomartins/xcodeapps/wink/wink/WKUser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/WKUser.m
+d/Users/diogomartins/xcodeapps/wink/wink/WKUser.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSession.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBError.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/diogomartins/xcodeapps/wink/wink/WKUser.m183"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o wink/WKUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler27c29268456fb941^177f9f68456fb941^---0#0#1#-19%DVTDocumentLocation2@64"file://localhost/Users/diogomartins/xcodeapps/wink/wink/WKUser.m0000000000000000^4107"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o wink/WKUser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.dia -c /Users/diogomartins/xcodeapps/wink/wink/WKUser.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o36"B1B05DE8-5DFB-4BFB-AAA9-84992A92928F-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o /Users/diogomartins/xcodeapps/wink/wink/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.821866
+e426722664.872698
+r1
+xCompileC
+xBuild/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o
+x/Users/diogomartins/xcodeapps/wink/wink/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/main.m
+d/Users/diogomartins/xcodeapps/wink/wink/AppDelegate.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSession.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBError.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/Headers/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/diogomartins/xcodeapps/wink/wink/main.m179"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o wink/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d80d268456fb941^9b3de068456fb941^---0#0#1#-19%DVTDocumentLocation2@62"file://localhost/Users/diogomartins/xcodeapps/wink/wink/main.m0000000000000000^4095"CompileC Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o wink/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.dia -c /Users/diogomartins/xcodeapps/wink/wink/main.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o36"BD5AB1B2-572C-41A4-A3A9-AA6104DB38CF-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCompileStoryboard /Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard
+s426722665.111177
+e426722667.013620
+r1
+xCompileStoryboard
+x/Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CompileStoryboard wink/Base.lproj/Main.storyboard49"CompileStoryboard wink/Base.lproj/Main.storyboarde9801c69456fb941^cc7c036b456fb941^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard0000000000000000^818"CompileStoryboard wink/Base.lproj/Main.storyboard    cd /Users/diogomartins/xcodeapps/wink    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Base.lproj/Main.storyboardc /Users/diogomartins/xcodeapps/wink/wink/Base.lproj/Main.storyboard36"9D145AB5-D993-4929-961B-186A6979ADE0-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCopyStringsFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/en.lproj/InfoPlist.strings wink/en.lproj/InfoPlist.strings
+s426722665.106663
+e426722665.109870
+r1
+xCopyStringsFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/en.lproj/InfoPlist.strings
+xwink/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy wink/en.lproj/InfoPlist.strings120"CopyStringsFile Build/Products/Debug-iphonesimulator/wink.app/en.lproj/InfoPlist.strings wink/en.lproj/InfoPlist.strings4b5c1b69456fb941^c5201c69456fb941^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/diogomartins/xcodeapps/wink/wink/en.lproj/InfoPlist.strings0000000000000000^573"CopyStringsFile Build/Products/Debug-iphonesimulator/wink.app/en.lproj/InfoPlist.strings wink/en.lproj/InfoPlist.strings    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/en.lproj -- wink/en.lproj/InfoPlist.strings36"4DF39008-806B-4A76-B471-CEC57C43D2E4-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCpResource wink/PAImageView.podspec Build/Products/Debug-iphonesimulator/wink.app/PAImageView.podspec
+s426722665.106686
+e426722665.108706
+r1
+xCpResource
+xwink/PAImageView.podspec
+xBuild/Products/Debug-iphonesimulator/wink.app/PAImageView.podspec
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/wink.app/PAImageView.podspec101"CpResource wink/PAImageView.podspec Build/Products/Debug-iphonesimulator/wink.app/PAImageView.podspec075c1b69456fb941^5ad41b69456fb941^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/PAImageView.podspec003834b7dcffdf42^592"CpResource wink/PAImageView.podspec Build/Products/Debug-iphonesimulator/wink.app/PAImageView.podspec    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/diogomartins/xcodeapps/wink/wink/PAImageView.podspec /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app36"FEFA702F-6F3F-46A6-B8F3-7A6CFA0E3F2E-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCpResource wink/background.jpg Build/Products/Debug-iphonesimulator/wink.app/background.jpg
+s426722665.106919
+e426722665.111941
+r1
+xCpResource
+xwink/background.jpg
+xBuild/Products/Debug-iphonesimulator/wink.app/background.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Build/Products/Debug-iphonesimulator/wink.app/background.jpg91"CpResource wink/background.jpg Build/Products/Debug-iphonesimulator/wink.app/background.jpgb66a1b69456fb941^a0a81c69456fb941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/background.jpg003834b7dcffdf42^577"CpResource wink/background.jpg Build/Products/Debug-iphonesimulator/wink.app/background.jpg    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/diogomartins/xcodeapps/wink/wink/background.jpg /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app36"BCD55237-481E-42B4-8820-ECFEC28B3138-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCpResource wink/geo_fence-100.png Build/Products/Debug-iphonesimulator/wink.app/geo_fence-100.png
+s426722665.106671
+e426722665.110723
+r1
+xCpResource
+xwink/geo_fence-100.png
+xBuild/Products/Debug-iphonesimulator/wink.app/geo_fence-100.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy Build/Products/Debug-iphonesimulator/wink.app/geo_fence-100.png97"CpResource wink/geo_fence-100.png Build/Products/Debug-iphonesimulator/wink.app/geo_fence-100.pngf75b1b69456fb941^9b581c69456fb941^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/geo_fence-100.png003834b7dcffdf42^586"CpResource wink/geo_fence-100.png Build/Products/Debug-iphonesimulator/wink.app/geo_fence-100.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/diogomartins/xcodeapps/wink/wink/geo_fence-100.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app36"2843523C-7117-40FB-B78C-BBC49EAD7522-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CCpResource wink/street_view-50-white.png Build/Products/Debug-iphonesimulator/wink.app/street_view-50-white.png
+s426725240.514143
+e426725240.516053
+r1
+xCpResource
+xwink/street_view-50-white.png
+xBuild/Products/Debug-iphonesimulator/wink.app/street_view-50-white.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/wink.app/street_view-50-white.png111"CpResource wink/street_view-50-white.png Build/Products/Debug-iphonesimulator/wink.app/street_view-50-white.png6dad83784f6fb941^611c84784f6fb941^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/street_view-50-white.png003834b7dcffdf42^607"CpResource wink/street_view-50-white.png Build/Products/Debug-iphonesimulator/wink.app/street_view-50-white.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/diogomartins/xcodeapps/wink/wink/street_view-50-white.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app36"F4505775-F3F2-4A29-8C21-3E32169BA788-
+bE5F577B4-1409-410A-879C-51D819E00AB9
+
+CCpResource wink/street_view-90-white.png Build/Products/Debug-iphonesimulator/wink.app/street_view-90-white.png
+s426725240.514153
+e426725240.517139
+r1
+xCpResource
+xwink/street_view-90-white.png
+xBuild/Products/Debug-iphonesimulator/wink.app/street_view-90-white.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/wink.app/street_view-90-white.png111"CpResource wink/street_view-90-white.png Build/Products/Debug-iphonesimulator/wink.app/street_view-90-white.png4bad83784f6fb941^ae6384784f6fb941^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/street_view-90-white.png0000000000000000^607"CpResource wink/street_view-90-white.png Build/Products/Debug-iphonesimulator/wink.app/street_view-90-white.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/diogomartins/xcodeapps/wink/wink/street_view-90-white.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app36"A3D091F3-5DCD-4C9E-978F-457C336EA678-
+bE5F577B4-1409-410A-879C-51D819E00AB9
+
+CCpResource wink/street_view-90.png Build/Products/Debug-iphonesimulator/wink.app/street_view-90.png
+s426722665.109870
+e426722665.112785
+r1
+xCpResource
+xwink/street_view-90.png
+xBuild/Products/Debug-iphonesimulator/wink.app/street_view-90.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug-iphonesimulator/wink.app/street_view-90.png99"CpResource wink/street_view-90.png Build/Products/Debug-iphonesimulator/wink.app/street_view-90.pngb22c1c69456fb941^bddf1c69456fb941^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/street_view-90.png003834b7dcffdf42^589"CpResource wink/street_view-90.png Build/Products/Debug-iphonesimulator/wink.app/street_view-90.png    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/diogomartins/xcodeapps/wink/wink/street_view-90.png /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app36"CF3EFD53-6BB2-4D7A-9413-B0647F6B9674-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CGenerateDSYMFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app.dSYM /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink
+s426725932.889881
+e426725933.045793
+r1
+xGenerateDSYMFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app.dSYM
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Generate /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app.dSYM118"GenerateDSYMFile Build/Products/Debug-iphonesimulator/wink.app.dSYM Build/Products/Debug-iphonesimulator/wink.app/winkdbdde32c526fb941^6bb90b2d526fb941^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app.dSYM/0000000000000000^631"GenerateDSYMFile Build/Products/Debug-iphonesimulator/wink.app.dSYM Build/Products/Debug-iphonesimulator/wink.app/wink    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app.dSYM36"681856C5-634E-46A7-A7FF-B5B84AA04D3D-
+b39FBC6BE-D493-4DE2-9D46-650F3097ED79
+
+CLd /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink normal i386
+s426725932.741130
+e426725932.876695
+r1
+xLd
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink
+xnormal
+xi386
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/wink.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKPlace.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/SidePanelViewController.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/MenuTableViewController.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKUser.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PlaceSearch.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/UIImage+ImageEffects.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/PAImageView.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/FirstViewController.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LoginUIViewController.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/AppDelegate.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/WKLocation.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/LocationTableViewCell.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/main.o
+d/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/DefaultsViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/libPods.a
+d/Users/diogomartins/xcodeapps/wink/FacebookSDK.framework/FacebookSDK
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink65"Ld Build/Products/Debug-iphonesimulator/wink.app/wink normal i38685ccbd2c526fb941^ac6fe02c526fb941^---0#0#1#--1553"Ld Build/Products/Debug-iphonesimulator/wink.app/wink normal i386    cd /Users/diogomartins/xcodeapps/wink    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/wink.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework QuartzCore -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework MapKit -framework Foundation -lPods -framework FacebookSDK -Xlinker -dependency_info -Xlinker /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Objects-normal/i386/wink_dependency_info.dat -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/wink36"4B48FD43-FB98-48BA-8185-1D50814FD59C-
+b39FBC6BE-D493-4DE2-9D46-650F3097ED79
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-8DB27945CEAD45468EA30330.sh
+s426726431.562370
+e426726431.575822
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-8DB27945CEAD45468EA30330.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'146"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-8DB27945CEAD45468EA30330.sh874d901f546fb941^9869931f546fb941^---0#0#1#--338"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-8DB27945CEAD45468EA30330.sh    cd /Users/diogomartins/xcodeapps/wink    /bin/sh -c /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-8DB27945CEAD45468EA30330.sh36"0E8071A1-78A9-4593-8C53-8A8901ABA542-
+bC765AE32-4A0C-45E2-BDF8-E8B740FBE48E
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-3115BC516CF244739965751C.sh
+s426725933.053848
+e426725933.503573
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-3115BC516CF244739965751C.sh
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle-highlighted.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle-highlighted@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-track.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-track@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackBackground.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackCrossedOver.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackCrossedOver@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default_trackBackground@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-handle.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-handle@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-track.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-track@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackBackground.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackBackground@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackCrossedOver.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackCrossedOver@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle-highlighted.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle-highlighted@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-track.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-track@2x.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-trackBackground.png
+o/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-trackBackground@2x.png
+obuilding file list ... done
+o
+osent 544 bytes  received 20 bytes  1128.00 bytes/sec
+ototal size is 42990  speedup is 76.22
+o/* com.apple.actool.compilation-results */
+o/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'141"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-3115BC516CF244739965751C.sh8f360e2d526fb941^6cea802d526fb941^-3197"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle-highlighted.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle-highlighted@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-track.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-track@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackBackground.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackCrossedOver.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackCrossedOver@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default_trackBackground@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-handle.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-handle@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-track.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-track@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackBackground.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackBackground@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackCrossedOver.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackCrossedOver@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle-highlighted.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle-highlighted@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-track.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-track@2x.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-trackBackground.png/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-trackBackground@2x.pngbuilding file list ... donesent 544 bytes  received 20 bytes  1128.00 bytes/sectotal size is 42990  speedup is 76.22/* com.apple.actool.compilation-results *//Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Assets.car31(21%IDEActivityLogMessage2@119"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle-highlighted.png-426725933#0#119#-0#-----2@122"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle-highlighted@2x.png-426725933#119#122#-0#-----2@107"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle.png-426725933#241#107#-0#-----2@110"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-handle@2x.png-426725933#348#110#-0#-----2@106"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-track.png-426725933#458#106#-0#-----2@109"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-track@2x.png-426725933#564#109#-0#-----2@116"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackBackground.png-426725933#673#116#-0#-----2@117"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackCrossedOver.png-426725933#789#117#-0#-----2@120"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default-trackCrossedOver@2x.png-426725933#906#120#-0#-----2@119"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme/slider-default_trackBackground@2x.png-426725933#1026#119#-0#-----2@109"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-handle.png-426725933#1145#109#-0#-----2@112"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-handle@2x.png-426725933#1254#112#-0#-----2@108"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-track.png-426725933#1366#108#-0#-----2@111"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-track@2x.png-426725933#1474#111#-0#-----2@118"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackBackground.png-426725933#1585#118#-0#-----2@121"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackBackground@2x.png-426725933#1703#121#-0#-----2@119"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackCrossedOver.png-426725933#1824#119#-0#-----2@122"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/DefaultTheme7/slider-default7-trackCrossedOver@2x.png-426725933#1943#122#-0#-----2@115"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle-highlighted.png-426725933#2065#115#-0#-----2@118"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle-highlighted@2x.png-426725933#2180#118#-0#-----2@103"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle.png-426725933#2298#103#-0#-----2@106"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-handle@2x.png-426725933#2401#106#-0#-----2@102"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-track.png-426725933#2507#102#-0#-----2@105"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-track@2x.png-426725933#2609#105#-0#-----2@112"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-trackBackground.png-426725933#2714#112#-0#-----2@115"/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/MetalTheme/slider-metal-trackBackground@2x.png-426725933#2826#115#-0#-----2@28"building file list ... done-426725933#2941#28#-0#-----2@53"sent 544 bytes  received 20 bytes  1128.00 bytes/sec-426725933#2970#53#-0#-----2@38"total size is 42990  speedup is 76.22-426725933#3023#38#-0#-----2@43"/* com.apple.actool.compilation-results */-426725933#3061#43#-0#-----2@92"/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Assets.car-426725933#3104#92#-0#-----0#0#1#--333"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-3115BC516CF244739965751C.sh    cd /Users/diogomartins/xcodeapps/wink    /bin/sh -c /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/Script-3115BC516CF244739965751C.sh36"05D11EB1-A85D-4299-999A-5EE1F41FA38B-
+b39FBC6BE-D493-4DE2-9D46-650F3097ED79
+
+CProcessInfoPlistFile /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Info.plist /Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist
+s426722667.021825
+e426722667.024523
+r1
+xProcessInfoPlistFile
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Info.plist
+x/Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Process /Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist98"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/wink.app/Info.plist wink/wink-Info.plist27a4056b456fb941^8847066b456fb941^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist0000000000000000^835"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/wink.app/Info.plist wink/wink-Info.plist    cd /Users/diogomartins/xcodeapps/wink    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/diogomartins/xcodeapps/wink/wink/wink-Info.plist -genpkginfo /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/assetcatalog_generated_info.plist -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app/Info.plist36"80D04305-290C-4E8C-8C8A-8C945C0BB386-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/wink-Prefix-endvmavosslahmgmbnaoinijgbwq_ast/wink-Prefix.pch.pch wink/wink-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.pch wink/wink-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426722664.527465
+e426722664.564330
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.pch
+xwink/wink-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile wink/wink-Prefix.pch199"ProcessPCH Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.pch wink/wink-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler711d8768456fb941^42789068456fb941^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch0000000000000000^4014"ProcessPCH Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.pch wink/wink-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/wink-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/wink.build/Debug-iphonesimulator/wink.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator -F/Users/diogomartins/xcodeapps/wink -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/wink/wink-Prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/wink-Prefix-edavtvrrbfeuubgwvoeslkpbsyif/wink-Prefix.pch.pch36"7DE00043-2931-4504-905F-3A8284967EDC-
+b9F826EBD-4614-4011-AB67-DE7973A799CE
+
+CTouch /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphonesimulator/wink.app
+r0
+

@@ -1,0 +1,809 @@
+TPods-AFNetworking
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534D64380000000000000132
+t1397580856
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000533C4A4E000000000000036B
+t1396460110
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A4F000000000000019E
+t1396460111
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534D63EE00000000004D7BC0
+t1397580782
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A510000000000A90C10
+t1396460113
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000533C4A510000000000210E90
+t1396460113
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000533C4A520000000000186D60
+t1396460114
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000533C4A5200000000001A2B00
+t1396460114
+s1714944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o
+t1404255222
+s45304
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o
+t1404255222
+s56780
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.o
+t1404255222
+s65428
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o
+t1404255222
+s33784
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o
+t1404255222
+s43560
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.o
+t1404255222
+s38144
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o
+t1404255222
+s200928
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.o
+t1404255222
+s232184
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.o
+t1404255222
+s101328
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.o
+t1404255222
+s197604
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o
+t1404255222
+s3760
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking.LinkFileList
+c0000000053B33BF30000000000000AE4
+t1404255219
+s2788
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o
+t1404255222
+s50484
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o
+t1404255222
+s28312
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.o
+t1404255222
+s74460
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o
+t1404255222
+s71844
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o
+t1404255222
+s66952
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o
+t1404255222
+s51876
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.o
+t1404255222
+s66664
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.pch
+t1404255221
+s98756
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.pch
+t1404255221
+s98352
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+t1404255223
+s1446680
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+c0000000053ACB6D50000000000001170
+t1403827925
+s4464
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+c0000000053ACB6D50000000000001D5E
+t1403827925
+s7518
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+c0000000053ACB6D50000000000004A9F
+t1403827925
+s19103
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+c0000000053ACB6D500000000000029D9
+t1403827925
+s10713
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+c0000000053ACB6D5000000000000389B
+t1403827925
+s14491
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+c0000000053ACB6D5000000000000322B
+t1403827925
+s12843
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+c0000000053ACB6D50000000000001E75
+t1403827925
+s7797
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+c0000000053ACB6D5000000000000267B
+t1403827925
+s9851
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+c0000000053ACB6D50000000000001420
+t1403827925
+s5152
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+c0000000053ACB6D50000000000002B7A
+t1403827925
+s11130
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+c0000000053ACB6D50000000000004273
+t1403827925
+s17011
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+c0000000053ACB6D50000000000006C06
+t1403827925
+s27654
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+c0000000053ACB6D50000000000005322
+t1403827925
+s21282
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+c0000000053ACB6D5000000000000BB98
+t1403827925
+s48024
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+c0000000053ACB6D50000000000002C15
+t1403827925
+s11285
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+c0000000053ACB6D50000000000006784
+t1403827925
+s26500
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+c0000000053ACB6D500000000000074AE
+t1403827925
+s29870
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+c0000000053ACB6D5000000000000A96B
+t1403827925
+s43371
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+c0000000053ACB6D50000000000000EC6
+t1403827925
+s3782
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+c0000000053ACB6D50000000000001911
+t1403827925
+s6417
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+c0000000053ACB6D500000000000009CE
+t1403827925
+s2510
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+c0000000053ACB6D50000000000000F1E
+t1403827925
+s3870
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+c0000000053ACB6D5000000000000143F
+t1403827925
+s5183
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+c0000000053ACB6D50000000000001641
+t1403827925
+s5697
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+c0000000053ACB6D50000000000001F9A
+t1403827925
+s8090
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+c0000000053ACB6D50000000000001D60
+t1403827925
+s7520
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+c0000000053ACB6D50000000000001C1C
+t1403827925
+s7196
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+c0000000053ACB6D50000000000001F28
+t1403827925
+s7976
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+c0000000053ACB6D50000000000000D8E
+t1403827925
+s3470
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+c0000000053ACB6D50000000000001EE1
+t1403827925
+s7905
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+c0000000053ACB6D500000000000009BC
+t1403827925
+s2492
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+c0000000053ACB6D50000000000000EFC
+t1403827925
+s3836
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+c0000000053ACB6D50000000000001739
+t1403827925
+s5945
+
+N/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+c0000000053ACB6D5000000000000192C
+t1403827925
+s6444
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m
+c0000000053B32379000000000000008A
+t1404248953
+s138
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-prefix.pch
+c0000000053B32379000000000000004D
+t1404248953
+s77
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+c0000000053B32379000000000000099B
+t1404248953
+s2459
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1d7580eed664b941^7a7281eed664b941^---0#1#1#--18"Check dependencies36"337C7EE1-22C8-4EE8-86D6-B8C57B6F74A7-
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948021.862312
+e425948022.357624
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m281"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler7fdadc757363b941^828d5b767363b941^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m0000000000000000^3891"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o AFNetworking/AFNetworking/AFHTTPRequestOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperation.o36"55036BDA-4E2B-4837-AA04-7B4B0A97394B-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948021.882266
+e425948022.359288
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m295"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler06f5e1757363b941^6efa5b767363b941^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m0000000000000000^3933"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPRequestOperationManager.o36"59AD42F4-A6E9-43F5-A377-0316FB483BE2-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.023150
+e425948022.376850
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m277"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler8e0406767363b941^4f7960767363b941^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m0000000000000000^3879"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.o AFNetworking/AFNetworking/AFHTTPSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFHTTPSessionManager.o36"84945814-07A2-4378-839E-34B9201ECA8E-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.360048
+e425948022.426109
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m309"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler68415c767363b941^38156d767363b941^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m0000000000000000^3969"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkActivityIndicatorManager.o36"89A6D2C1-4D93-45AE-8A32-4494A98CA6BC-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.378327
+e425948022.505746
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m293"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler30f460767363b941^1a8881767363b941^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m0000000000000000^3927"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o AFNetworking/AFNetworking/AFNetworkReachabilityManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFNetworkReachabilityManager.o36"66308B70-5357-49C5-A42D-2DE75390E0B7-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.403228
+e425948022.502142
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m269"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd35067767363b941^3f8c80767363b941^---0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m0000000000000000^3855"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.o AFNetworking/AFNetworking/AFSecurityPolicy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFSecurityPolicy.o36"BCB246C5-9DAF-49C0-909A-1DF256B12110-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.428580
+e425948022.726946
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m285"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler57cf6d767363b941^5419ba767363b941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m0000000000000000^3903"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o AFNetworking/AFNetworking/AFURLConnectionOperation.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLConnectionOperation.o36"24D97D24-6AB7-4E7C-8154-A415C3B1CBC3-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.503803
+e425948022.759226
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m287"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler1f0f81767363b941^c45cc2767363b941^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m0000000000000000^3909"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.o AFNetworking/AFNetworking/AFURLRequestSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLRequestSerialization.o36"4D4188E7-5748-467E-B992-025C1A8D6632-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.507182
+e425948022.663019
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m289"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler8ded81767363b941^cfbba9767363b941^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m0000000000000000^3915"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.o AFNetworking/AFNetworking/AFURLResponseSerialization.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLResponseSerialization.o36"0CF8E900-B2D0-4E01-9EF8-F8266B7FF750-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.664700
+e425948022.867829
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m275"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler9a3faa767363b941^463fde767363b941^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m0000000000000000^3873"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.o AFNetworking/AFNetworking/AFURLSessionManager.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/AFURLSessionManager.o36"63B2DF25-F86D-40F1-B5D7-0BF3AEAE0B18-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.728632
+e425948022.760640
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m257"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerdca0ba767363b941^3db9c2767363b941^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m0000000000000000^3834"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o Pods-AFNetworking-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking-dummy.o36"79081F17-5567-4945-A896-EEA0E1E637F2-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.760920
+e425948022.827261
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m315"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler11e2c2767363b941^97c6d3767363b941^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m0000000000000000^3987"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIActivityIndicatorView+AFNetworking.o36"6D0E7067-14B7-4D00-85CB-73D43527CCF1-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.762139
+e425948022.819407
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m291"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilera12dc3767363b941^ebc4d1767363b941^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m0000000000000000^3915"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIAlertView+AFNetworking.o36"103AD706-3802-4039-B7C1-1D3AB70531BD-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.821133
+e425948022.916310
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m285"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere677d2767363b941^6ea6ea767363b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m0000000000000000^3897"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIButton+AFNetworking.o36"974C36FC-57C2-4D01-9F0F-E8C849BF50EE-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.828881
+e425948022.917569
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m291"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler944ad4767363b941^43e6ea767363b941^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m0000000000000000^3915"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIImageView+AFNetworking.o36"66473C25-A5F6-4CA0-936C-0A1F40618B05-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.869825
+e425948022.977853
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m297"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler37c6de767363b941^d654fa767363b941^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m0000000000000000^3933"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIProgressView+AFNetworking.o36"9CAC055F-EC05-4C85-BC15-4F9D2459D8A7-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.918242
+e425948023.034500
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m301"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc329eb767363b941^ccd408777363b941^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m0000000000000000^3945"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIRefreshControl+AFNetworking.o36"0894541F-2BF4-4068-BDE8-CF227454DF8B-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.o /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948022.918770
+e425948023.035449
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.o
+x/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h
+d/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m287"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler0e4beb767363b941^511309777363b941^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m0000000000000000^3903"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.o AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.dia -c /Users/diogomartins/xcodeapps/wink/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/UIWebView+AFNetworking.o36"A792090F-5C04-4151-839B-94B883883F71-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s
+s425948023.044334
+e425948023.077026
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s109"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s406a0b777363b941^6fb813777363b941^---0#0#1#--1079"Libtool /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a normal armv7s    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Objects-normal/armv7s/Pods-AFNetworking.LinkFileList -framework CoreGraphics -framework Foundation -framework MobileCoreServices -framework Security -framework SystemConfiguration -o /Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/libPods-AFNetworking.a36"1D457FC1-2C3C-4719-867D-CB7088854B99-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-breqttplqluxykaritvrzhiivhsp_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-AFNetworking-prefix-fdgdnzhbiwgjeshjuewmymlazwcm_ast/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948019.799376
+e425948021.853128
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch270"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler7ec3cc737363b941^8866da757363b941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3722"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-dbbtcjvbfgodhcamatxgfkbpsqxc/Pods-AFNetworking-prefix.pch.pch36"47955EFA-11D8-438D-A174-F03019A62EA4-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425948021.533214
+e425948021.598165
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.pch
+xPods-AFNetworking-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-AFNetworking-prefix.pch270"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler3d9888757363b941^c02099757363b941^---0#0#1#-19%DVTDocumentLocation2@84"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-prefix.pch0000000000000000^3711"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.pch Pods-AFNetworking-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/Pods-AFNetworking-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources/armv7s -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-AFNetworking.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-AFNetworking-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-AFNetworking-prefix-gxsphfejhzffdtapyupvohlpfjnc/Pods-AFNetworking-prefix.pch.pch36"81106F88-7820-45FB-9AC1-E60A49795513-
+b662D0E81-1D70-4038-84F7-6AA62221ACE1
+

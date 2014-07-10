@@ -1,0 +1,303 @@
+TPods-NMRangeSlider
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.o /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.o /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a normal i386
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a normal x86_64
+cCreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a normal i386\ x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A510000000000A90C10
+t1396460113
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534D64AC0000000000000198
+t1397580972
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533C4A5E00000000000003B4
+t1396460126
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A63000000000000019E
+t1396460131
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.o
+t1405027019
+s125940
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.o
+t1405027018
+s3444
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider.LinkFileList
+c0000000053BF02C70000000000000139
+t1405027015
+s313
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a
+t1405027019
+s131304
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.o
+t1405027019
+s142188
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.o
+t1405027019
+s3892
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider.LinkFileList
+c0000000053BF02C7000000000000013D
+t1405027015
+s317
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a
+t1405027019
+s148000
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.pch
+t1405027018
+s128132
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.pch
+t1405027017
+s127228
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.pch
+t1405027018
+s129112
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.pch
+t1405027017
+s128220
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a
+t2
+s0
+
+N/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m
+c0000000053BACDE10000000000004972
+t1404751329
+s18802
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m
+c0000000053BACE70000000000000008C
+t1404751472
+s140
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch
+c0000000053BACE70000000000000004D
+t1404751472
+s77
+
+CAnalyzeShallow /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m
+r0
+
+CAnalyzeShallow /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1d573f473a6fb941^cdea75473a6fb941^---0#1#1#--18"Check dependencies36"CA201B4A-883C-4252-833C-20E8C21DB09C-
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.o /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719818.811083
+e426719819.094521
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.o
+x/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m
+d/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m271"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.o NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1fbbcf4a3a6fb941^ba32184b3a6fb941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m0000000000000000^4173"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.o NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.dia -c /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/NMRangeSlider.o36"1F98C440-E19A-4DB2-BEAD-C052777D4799-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719818.952376
+e426719819.027243
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m265"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.o Pods-NMRangeSlider-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36e8f34a3a6fb941^23f9064b3a6fb941^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m0000000000000000^4149"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.o Pods-NMRangeSlider-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider-dummy.o36"463FAB8D-C759-4304-AACF-E65753A9469B-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.o /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719819.028589
+e426719819.232750
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.o
+x/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m
+d/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m275"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.o NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilercb69074b3a6fb941^b3953b4b3a6fb941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m0000000000000000^4187"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.o NMRangeSlider/NMRangeSlider/NMRangeSlider.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/x86_64 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.dia -c /Users/diogomartins/xcodeapps/wink/Pods/NMRangeSlider/NMRangeSlider/NMRangeSlider.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/NMRangeSlider.o36"48E1FC38-A865-4D3D-897C-FD82BB9271E7-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719819.096136
+e426719819.129981
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m269"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.o Pods-NMRangeSlider-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler79b1184b3a6fb941^9146214b3a6fb941^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m0000000000000000^4163"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.o Pods-NMRangeSlider-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/x86_64 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider-dummy.o36"CA9C9F25-F76B-4D53-8E6F-62C91401B689-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CCreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a normal i386\ x86_64
+s426719819.645999
+e426719819.684917
+r1
+xCreateUniversalBinary
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Create universal binary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a139"CreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a normal i386\ x86_64fc6fa54b3a6fb941^4f57af4b3a6fb941^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a003834b7dcffdf42^910"CreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a normal i386\ x86_64    cd /Users/diogomartins/xcodeapps/wink/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a -o /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a36"A5024AF3-FF4B-4887-B7AE-9F18BCE49B24-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a normal i386
+s426719819.422424
+e426719819.431934
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a normal i386178"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a normal i386db326c4b3a6fb941^d1936e4b3a6fb941^---0#0#1#--1151"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a normal i386    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/Pods-NMRangeSlider.LinkFileList -framework Foundation -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/i386/libPods-NMRangeSlider.a36"33F21947-F457-493A-9435-62784F0D5413-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a normal x86_64
+s426719819.495258
+e426719819.532972
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection182"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a normal x86_64182"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a normal x86_64f1d97e4b3a6fb941^da70884b3a6fb941^---0#0#1#--1161"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a normal x86_64    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/Pods-NMRangeSlider.LinkFileList -framework Foundation -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Objects-normal/x86_64/libPods-NMRangeSlider.a36"5970B844-43D8-4485-A01D-E693AE80A542-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-NMRangeSlider-prefix-aehhxbsgmmslykcvswrdllrbktku_ast/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-NMRangeSlider-prefix-ctvgdvuhasafemdrlusynoouflmo_ast/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dpgiiofhpyuqcvdcmkjfusrpcanu_ast/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/Library/Developer/Xcode/DerivedData/wink-bhzjefgpijlgqtfpihxtdizumnma/Index/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gqkkhdrdvouzjxbohnjzkpqylopc_ast/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719818.210690
+e426719818.258526
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.pch
+xPods-NMRangeSlider-prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-NMRangeSlider-prefix.pch273"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd104364a3a6fb941^7f2e424a3a6fb941^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch0000000000000000^4002"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/x86_64 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bpgatfspmmahffbpwrhrqcglgvun/Pods-NMRangeSlider-prefix.pch.pch36"D224146B-912A-4BCD-97B1-6D809C49FBF8-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719817.336983
+e426719817.370484
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.pch
+xPods-NMRangeSlider-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-NMRangeSlider-prefix.pch271"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere25956493a6fb941^2cd85e493a6fb941^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch0000000000000000^3996"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-bqpvfwrgbbcdgdfjolmelsdlomrc/Pods-NMRangeSlider-prefix.pch.pch36"0F286A76-4A99-4C70-B82F-7652EA5C3D60-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-ctmlvwjcvyximqeetuddyxtpyucm/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dbdphittlkflsfcziwzxgcmkwuhw/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719817.540198
+e426719818.607460
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.pch
+xPods-NMRangeSlider-prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-NMRangeSlider-prefix.pch273"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere1618a493a6fb941^17839b4a3a6fb941^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch0000000000000000^4036"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/x86_64 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-dxqpxqhekbkwdkacaeyfwfjuxkuk/Pods-NMRangeSlider-prefix.pch.pch36"496CAF4D-92D1-4F37-B438-2A8133668E04-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+
+CProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719817.232424
+e426719817.265903
+r1
+xProcessPCH
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.pch
+xPods-NMRangeSlider-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile Pods-NMRangeSlider-prefix.pch271"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36933b493a6fb941^6a1244493a6fb941^---0#0#1#-19%DVTDocumentLocation2@85"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch0000000000000000^4030"ProcessPCH /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.pch Pods-NMRangeSlider-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/Pods-NMRangeSlider-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders -I/Users/diogomartins/xcodeapps/wink/Pods/BuildHeaders/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods-NMRangeSlider.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.dia -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.d -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-NMRangeSlider-prefix.pch -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/PrecompiledHeaders/Pods-NMRangeSlider-prefix-gvtamhqskqoitqcnjvadehghuwvj/Pods-NMRangeSlider-prefix.pch.pch36"1823944F-48F2-41A4-9E27-0C998603D699-
+bE8D2A490-2297-4878-87BB-500A405B09F5
+

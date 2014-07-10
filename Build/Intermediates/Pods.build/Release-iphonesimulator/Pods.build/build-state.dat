@@ -1,0 +1,163 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a normal i386
+cLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a normal x86_64
+cCreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a normal i386\ x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533C4A510000000000A90C10
+t1396460113
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534D64AC0000000000000198
+t1397580972
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533C4A5E00000000000003B4
+t1396460126
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533C4A63000000000000019E
+t1396460131
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533C4AA20000000000000ADC
+t1396460194
+s2780
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1405027020
+s3092
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c0000000053BF02CC0000000000000086
+t1405027020
+s134
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a
+t1405027021
+s1848936
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o
+t1405027020
+s3524
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods.LinkFileList
+c0000000053BF02CC0000000000000088
+t1405027020
+s136
+
+N/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a
+t1405027021
+s2124184
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-AFNetworking.a
+c0000000053BF02CC00000000002D18D0
+t1405027020
+s2955472
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-JASidePanels.a
+c0000000053BF02CB0000000000082620
+t1405027019
+s534048
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-NMRangeSlider.a
+c0000000053BF02CB0000000000044338
+t1405027019
+s279352
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods-UIColor-CrayolaCrayons.a
+c0000000053BF02CB00000000000305D8
+t1405027019
+s198104
+
+N/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a
+t2
+s0
+
+N/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+c0000000053BACE700000000000000070
+t1404751472
+s112
+
+CAnalyzeShallow /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+r0
+
+CBuild AST from /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies747ec24c3a6fb941^ae9fe64c3a6fb941^---0#1#1#--18"Check dependencies36"77DBE458-A60D-4338-902F-C75982923374-
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719820.902563
+e426719820.938566
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m223"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8923e74c3a6fb941^bb45f04c3a6fb941^---0#0#1#-19%DVTDocumentLocation2@68"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m0000000000000000^3975"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/UIColor-CrayolaCrayons -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"F70A9FF1-BC95-4236-B2DD-71024C176616-
+bBBEFEC13-1910-4F7F-B2E2-B54578136B69
+
+CCompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426719820.902551
+e426719820.941409
+r1
+xCompileC
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o
+x/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m227"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9624e74c3a6fb941^3f00f14c3a6fb941^---0#0#1#-19%DVTDocumentLocation2@68"file://localhost/Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m0000000000000000^3989"CompileC /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o Pods-dummy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/diogomartins/xcodeapps/wink/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/diogomartins/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/include -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/AFNetworking -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/JASidePanels -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/NMRangeSlider -I/Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/UIColor-CrayolaCrayons -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/DerivedSources/x86_64 -I/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/DerivedSources -F/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/AFNetworking -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/JASidePanels -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/NMRangeSlider -isystem /Users/diogomartins/xcodeapps/wink/Pods/Pods/Headers/UIColor-CrayolaCrayons -MMD -MT dependencies -MF /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.d --serialize-diagnostics /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.dia -c /Users/diogomartins/xcodeapps/wink/Pods/Pods-dummy.m -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods-dummy.o36"80252FB8-9448-4FE4-9501-EB2B0B3DDEA9-
+bBBEFEC13-1910-4F7F-B2E2-B54578136B69
+
+CCreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a normal i386\ x86_64
+s426719821.125100
+e426719821.377946
+r1
+xCreateUniversalBinary
+x/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Create universal binary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a125"CreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a normal i386\ x86_641616204d3a6fb941^66c1604d3a6fb941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a003834b7dcffdf42^826"CreateUniversalBinary /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a normal i386\ x86_64    cd /Users/diogomartins/xcodeapps/wink/Pods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a -o /Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator/libPods.a36"C8BF8082-7AFB-4B57-9D87-475BDD2D6286-
+bBBEFEC13-1910-4F7F-B2E2-B54578136B69
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a normal i386
+s426719820.949194
+e426719821.116671
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a normal i386150"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a normal i386520df34c3a6fb941^6ade1d4d3a6fb941^---0#0#1#--1158"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a normal i386    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-JASidePanels -lPods-NMRangeSlider -lPods-UIColor-CrayolaCrayons -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/i386/libPods.a36"27D163EE-5DDB-4311-BB69-C217F4E321D8-
+bBBEFEC13-1910-4F7F-B2E2-B54578136B69
+
+CLibtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a normal x86_64
+s426719820.949196
+e426719821.116970
+r1
+xLibtool
+x/Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a
+xnormal
+xx86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a normal x86_64154"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a normal x86_64520df34c3a6fb941^e1f11d4d3a6fb941^---0#0#1#--1168"Libtool /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a normal x86_64    cd /Users/diogomartins/xcodeapps/wink/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/diogomartins/xcodeapps/wink/Build/Products/Release-iphonesimulator -filelist /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-JASidePanels -lPods-NMRangeSlider -lPods-UIColor-CrayolaCrayons -o /Users/diogomartins/xcodeapps/wink/Build/Intermediates/Pods.build/Release-iphonesimulator/Pods.build/Objects-normal/x86_64/libPods.a36"A163BB47-DD32-4052-BC6E-0707E4CA7429-
+bBBEFEC13-1910-4F7F-B2E2-B54578136B69
+
